@@ -1,0 +1,3642 @@
+*Vertices 1177
+1 "brazilian" -311.26788 490.08575 0.0
+2 "Vegeterian" -23.364063 -125.63984 0.0
+3 "olive oil" 473.09625 41.090633 0.0
+4 "yellow onion" -130.89796 -301.9827 0.0
+5 "black pepper" 325.24487 450.88776 0.0
+6 "spring onions" -476.67328 -134.46487 0.0
+7 "medium tomatoes" -320.4426 138.93304 0.0
+8 "fresh lime juice" 202.20674 -292.15448 0.0
+9 "hearts of palm" 256.3642 269.42743 0.0
+10 "salt" -103.08187 -425.0986 0.0
+11 "Non-Vegeterian" -331.5058 -361.4475 0.0
+12 "granulated sugar" -253.47267 -463.80725 0.0
+13 "sweetened coconut flakes" 233.63826 59.520565 0.0
+14 "coconut milk" 134.92915 158.13342 0.0
+15 "active dry yeast" -352.29108 305.16357 0.0
+16 "flour" -373.3585 -165.45447 0.0
+17 "grated nutmeg" -336.36182 -460.14758 0.0
+18 "glaze" -29.630726 -278.33582 0.0
+19 "large eggs" -184.44145 -299.1384 0.0
+20 "vanilla extract" 372.88214 60.528744 0.0
+21 "white sugar" -469.92554 473.8625 0.0
+22 "unsalted butter" 125.63508 -442.67532 0.0
+23 "whole milk" -325.6633 348.04895 0.0
+24 "rolls" 452.6911 -463.81656 0.0
+25 "sweetened condensed milk" -295.11005 -266.52948 0.0
+26 "pork" 140.89168 -220.8566 0.0
+27 "chile pepper" 101.77375 276.4674 0.0
+28 "onions" 111.848885 324.42145 0.0
+29 "prawns" -300.88824 318.6729 0.0
+30 "light coconut milk" -399.7793 6.838251 0.0
+31 "shrimp paste" -143.56462 -89.13221 0.0
+32 "fresh ginger root" 13.860485 193.18713 0.0
+33 "fresh green bean" 154.24232 -84.956825 0.0
+34 "calabash" -131.18504 -9.468756 0.0
+35 "bay leaves" 442.80157 506.34784 0.0
+36 "smoked ham hocks" 415.77985 186.8581 0.0
+37 "orange" -375.02856 -178.83441 0.0
+38 "garlic" -295.4978 321.2179 0.0
+39 "pork shoulder" -488.193 -411.6098 0.0
+40 "black beans" -131.24669 -425.58444 0.0
+41 "extra-virgin olive oil" 453.99023 328.0345 0.0
+42 "flat leaf parsley" 356.8786 -378.478 0.0
+43 "long grain white rice" 222.62398 104.63079 0.0
+44 "jalapeno chilies" -318.43695 193.91675 0.0
+45 "smoked sausage" -210.31133 -117.54963 0.0
+46 "dulce de leche" 17.333508 -138.73248 0.0
+47 "chocolate sandwich cookies" 241.46944 245.38995 0.0
+48 "powdered sugar" -364.54672 462.79907 0.0
+49 "butter" 47.5171 -383.55664 0.0
+50 "heavy whipping cream" -266.75394 -307.60162 0.0
+51 "bananas" 303.21704 139.99664 0.0
+52 "cream cheese" -311.48148 -426.45166 0.0
+53 "soften" 365.79437 74.756096 0.0
+54 "brown sugar" 149.63618 -52.22205 0.0
+55 "chocolate" -488.40417 -114.06245 0.0
+56 "lime" -342.06348 -355.7379 0.0
+57 "fresh mint" -143.25783 222.41699 0.0
+58 "sugar" -308.45032 -301.60114 0.0
+59 "sugarcane sticks" -196.2436 -382.13788 0.0
+60 "ice" 118.32661 -156.361 0.0
+61 "lime slices" -296.47168 64.434746 0.0
+62 "cachaca" 50.460094 -486.46497 0.0
+63 "lemon" 254.98592 -426.52527 0.0
+64 "tapioca flour" 4.5149035 -240.07394 0.0
+65 "vegetable oil" 404.0993 459.64594 0.0
+66 "milk" 87.967354 -181.63351 0.0
+67 "eggs" 149.35378 363.3454 0.0
+68 "chees fresco queso" -343.01294 -466.64575 0.0
+69 "pig" -287.41644 -39.25324 0.0
+70 "bacon" -479.92447 493.6089 0.0
+71 "red bell pepper" -7.9320264 -98.32987 0.0
+72 "hungarian sweet paprika" 298.31104 -478.4056 0.0
+73 "chorizo" 79.04713 -237.46017 0.0
+74 "pepper" -4.6699414 111.67852 0.0
+75 "celery" -110.67516 -294.98764 0.0
+76 "pig's ear" 178.80952 -482.2358 0.0
+77 "garbanzo beans" -361.61798 90.42779 0.0
+78 "carrots" 430.09637 453.92438 0.0
+79 "fresh parsley" -28.567738 -483.9436 0.0
+80 "ground coriander" -120.235405 -209.482 0.0
+81 "green onions" 49.109997 -388.81525 0.0
+82 "chopped onion" -285.7392 203.45801 0.0
+83 "chopped cilantro fresh" -215.01173 459.40436 0.0
+84 "ham" -487.56476 465.75 0.0
+85 "baking powder" -267.11868 -301.9634 0.0
+86 "cooking oil" 150.63484 -41.886784 0.0
+87 "all-purpose flour" -170.10411 186.44818 0.0
+88 "hot chocolate mix" -198.83073 19.442743 0.0
+89 "ice cubes" 315.45093 -367.91812 0.0
+90 "coffee beans" 241.34474 -41.934055 0.0
+91 "water" -333.00403 -283.6531 0.0
+92 "queso fresco" 288.8902 -98.8083 0.0
+93 "hot pepper" 319.9131 72.0841 0.0
+94 "dried beans" -315.51312 172.6466 0.0
+95 "cane sugar" 272.09857 -69.85819 0.0
+96 "sausages" 153.24171 -442.0624 0.0
+97 "crushed tomatoes" 412.97504 374.6671 0.0
+98 "carne seca" -305.66937 -359.12494 0.0
+99 "lemon juice" -437.80518 -74.960304 0.0
+100 "sugar syrup" 371.66913 377.43713 0.0
+101 "passion fruit" -244.94783 -403.05603 0.0
+102 "crushed ice" 8.349743 210.25 0.0
+103 "spices" 269.63 -314.10413 0.0
+104 "frozen green beans" 223.72115 321.00427 0.0
+105 "skinless chicken breasts" 254.96461 263.61206 0.0
+106 "caster sugar" 194.36366 68.32458 0.0
+107 "buttermilk" -409.9806 -219.07181 0.0
+108 "white wine vinegar" 368.85107 265.05225 0.0
+109 "allspice berries" -219.98262 230.544 0.0
+110 "coriander seeds" 121.06989 -288.4018 0.0
+111 "sunflower oil" 279.6881 38.693233 0.0
+112 "sweet paprika" -11.999378 320.96826 0.0
+113 "chicken thighs" -377.7547 226.90662 0.0
+114 "plain flour" -294.75107 246.25677 0.0
+115 "fine sea salt" 128.41603 413.35596 0.0
+116 "ground white pepper" -272.75385 -347.1476 0.0
+117 "cold water" -228.39668 -92.160835 0.0
+118 "honey" 298.9226 165.29254 0.0
+119 "berries" -16.730976 495.28418 0.0
+120 "unsweetened shredded dried coconut" 431.78937 -437.3493 0.0
+121 "granola" -203.11604 499.722 0.0
+122 "a?�?�ai" 329.74713 -3.465948 0.0
+123 "salted butter" -250.70183 373.99866 0.0
+124 "chocolate sprinkles" -91.426476 -137.7846 0.0
+125 "bittersweet chocolate" 385.1435 370.06598 0.0
+126 "soy milk" 57.922924 466.11865 0.0
+127 "blueberries" 42.887646 -189.48901 0.0
+128 "raspberries" 205.80629 -198.17804 0.0
+129 "cranberries" -159.58302 104.05596 0.0
+130 "apple juice" -437.09933 71.937675 0.0
+131 "strawberries" 423.5329 -73.920876 0.0
+132 "Chobani Yogurt" 147.67061 74.675285 0.0
+133 "british" 92.50477 -80.22257 0.0
+134 "rapid rise yeast" 323.16742 211.58606 0.0
+135 "bread flour" 379.8302 -135.58643 0.0
+136 "dried currants" 112.50483 -333.0639 0.0
+137 "sherry wine vinegar" 16.610607 504.15875 0.0
+138 "stilton cheese" 2.3913074 259.3479 0.0
+139 "dried thyme" 495.45886 134.36365 0.0
+140 "beef broth" 292.73352 -427.20224 0.0
+141 "veal chops" 114.613045 -398.33994 0.0
+142 "cream sherry" 305.20795 236.74854 0.0
+143 "black peppercorns" 470.9375 -409.88354 0.0
+144 "heavy cream" -75.17065 -355.85318 0.0
+145 "rib pork chops" -141.24806 -62.259953 0.0
+146 "confectioners sugar" 15.929211 -28.79502 0.0
+147 "dipping sauces" -73.06472 255.93945 0.0
+148 "coarse salt" 227.58888 94.33636 0.0
+149 "almond flour" 248.51003 309.1316 0.0
+150 "dark muscovado sugar" -416.54443 -112.69413 0.0
+151 "whiskey" 164.91975 452.497 0.0
+152 "ground cinnamon" 37.001965 425.60468 0.0
+153 "ground cloves" 381.4718 -77.04212 0.0
+154 "vegan butter" -134.32689 -174.74835 0.0
+155 "chopped walnuts" 310.92218 -68.226204 0.0
+156 "ground ginger" 375.99677 -200.32947 0.0
+157 "sultana" 88.94117 316.7202 0.0
+158 "apples" -103.38314 -469.01288 0.0
+159 "double cream" -481.79773 -22.36518 0.0
+160 "self rising flour" 447.3416 121.03527 0.0
+161 "golden syrup" -62.901936 441.18823 0.0
+162 "bread crumbs" -210.31844 -287.44324 0.0
+163 "vanilla pods" 154.59224 -320.94604 0.0
+164 "egg yolks" -212.01512 352.52448 0.0
+165 "ground black pepper" 144.47578 -261.77512 0.0
+166 "balsamic vinegar" 140.16072 -192.78525 0.0
+167 "smoked paprika" 150.303 -166.95746 0.0
+168 "liver" -426.88626 -167.4011 0.0
+169 "mustard seeds" 216.54097 295.57605 0.0
+170 "beef" -459.6042 -146.17969 0.0
+171 "hot water" -68.02691 184.30847 0.0
+172 "garlic cloves" 308.21405 -386.03262 0.0
+173 "nutmeg" 348.15662 410.65723 0.0
+174 "canola oil" 70.81666 115.050224 0.0
+175 "dried rosemary" -381.25922 -41.32221 0.0
+176 "mashed potatoes" 397.41132 93.03155 0.0
+177 "beef stock" -105.29061 145.36761 0.0
+178 "beef kidney" -119.84637 343.95953 0.0
+179 "sirloin steak" 406.12207 -102.690285 0.0
+180 "oil" 326.37506 449.695 0.0
+181 "sage" 462.6828 -296.036 0.0
+182 "wine" 218.10439 -160.57898 0.0
+183 "mushrooms" 313.47498 248.73633 0.0
+184 "lamb shoulder" 448.06732 -332.9331 0.0
+185 "thyme" 420.45807 -283.976 0.0
+186 "pastry for single crust pie" -466.26556 -315.02362 0.0
+187 "stout" -279.16895 425.758 0.0
+188 "bay leaf" -390.38342 150.59235 0.0
+189 "potatoes" -119.87777 -243.46832 0.0
+190 "parsley" -497.10535 -184.37173 0.0
+191 "frozen peas" 370.87653 284.22656 0.0
+192 "cheddar cheese" 108.5984 216.13971 0.0
+193 "cornflour" 451.06665 -314.88428 0.0
+194 "cider" 97.93568 -192.89383 0.0
+195 "shortcrust pastry" -238.13689 230.74628 0.0
+196 "cremini mushrooms" -282.9958 -33.42246 0.0
+197 "kosher salt" 316.15613 -363.52844 0.0
+198 "medium dry sherry" 63.00117 -467.86362 0.0
+199 "tenderloin roast" 107.23029 -383.67477 0.0
+200 "sauce" -238.8206 326.37048 0.0
+201 "pork sausages" 431.24963 -256.00092 0.0
+202 "large garlic cloves" 408.18073 78.24761 0.0
+203 "brown gravy seasoning mix" 287.72052 123.00689 0.0
+204 "ground lamb" 496.0113 253.72742 0.0
+205 "cod fillets" -101.14501 -71.31339 0.0
+206 "beer" -214.1959 -428.3564 0.0
+207 "baking potatoes" 471.76813 100.51446 0.0
+208 "garlic powder" 261.64984 399.83136 0.0
+209 "tomatoes" -183.30244 335.27313 0.0
+210 "fresh thyme" -137.84245 -198.3262 0.0
+211 "pastry" 329.94354 59.938656 0.0
+212 "suet" 161.0403 -265.31635 0.0
+213 "jam" 151.98506 247.71924 0.0
+214 "country ham" 47.904186 -209.5664 0.0
+215 "mustard powder" 19.233898 -218.50015 0.0
+216 "worcestershire sauce" 246.5511 -90.90699 0.0
+217 "superfine sugar" 442.1494 -433.98157 0.0
+218 "white flour" 200.4889 -297.97516 0.0
+219 "pure vanilla extract" 362.9411 -256.58362 0.0
+220 "free-range eggs" 453.97614 372.3407 0.0
+221 "baking soda" 372.84668 176.38037 0.0
+222 "margarine" 161.80916 -263.99127 0.0
+223 "dates" -98.02065 -171.08997 0.0
+224 "boiling water" -227.80504 -484.94662 0.0
+225 "dark brown sugar" -466.00323 -203.18338 0.0
+226 "ale" 244.43385 -100.41859 0.0
+227 "toast" -256.64792 -481.61984 0.0
+228 "cayenne pepper" 386.77002 356.8147 0.0
+229 "dijon mustard" -95.356255 130.16028 0.0
+230 "tomato ketchup" 29.650158 -196.9957 0.0
+231 "sweet potatoes" 381.59113 23.777216 0.0
+232 "mincemeat" -214.23631 -451.95303 0.0
+233 "herbs" -132.58159 406.55157 0.0
+234 "chicken stock" 90.62049 -127.180214 0.0
+235 "English mustard" -81.06185 72.20739 0.0
+236 "sweet corn" 66.05537 -294.30615 0.0
+237 "seasoning" -196.61592 -352.5805 0.0
+238 "shelled prawn" -496.06955 -372.61597 0.0
+239 "haddock" 360.04962 295.7995 0.0
+240 "white pepper" -71.5592 352.23596 0.0
+241 "dry mustard" -431.95325 232.99158 0.0
+242 "horseradish root" 262.80957 -90.75211 0.0
+243 "cajun_creole" -92.99203 434.86505 0.0
+244 "evaporated milk" 99.794075 -22.430243 0.0
+245 "warm water" 399.31152 -394.6375 0.0
+246 "gluten" -44.69515 218.91699 0.0
+247 "jambalaya mix" 430.41815 -188.6164 0.0
+248 "minced garlic" 170.57375 -6.7179317 0.0
+249 "low sodium chicken broth" 58.165417 189.15314 0.0
+250 "creole seasoning" 320.69 -455.47717 0.0
+251 "andouille sausage" -457.62744 -220.15656 0.0
+252 "chopped green bell pepper" 85.9549 -401.14975 0.0
+253 "black-eyed peas" 252.8691 -138.20868 0.0
+254 "chopped celery" -452.60968 331.9355 0.0
+255 "shrimp" -52.935596 112.46978 0.0
+256 "sweet onion" -221.13264 -170.69977 0.0
+257 "cooked chicken" -352.56226 -444.55472 0.0
+258 "peanut oil" 425.70508 489.8496 0.0
+259 "red kidney beans" -5.1683545 -474.12848 0.0
+260 "Tabasco Pepper Sauce" -316.77756 303.85333 0.0
+261 "hot sauce" 5.193126 -177.35883 0.0
+262 "green bell pepper" -281.39163 -425.62537 0.0
+263 "meat bones" -384.5878 -193.8627 0.0
+264 "celery ribs" 115.60859 445.0929 0.0
+265 "white rice" 268.1671 447.596 0.0
+266 "diced tomatoes" 363.91016 -452.3391 0.0
+267 "okra" 56.19166 239.41309 0.0
+268 "Johnsonville Andouille" -236.26231 188.18243 0.0
+269 "chili powder" -376.86078 435.29706 0.0
+270 "gumbo file" 371.05804 -244.90746 0.0
+271 "old bay seasoning" 101.22529 304.9914 0.0
+272 "grits" -230.0771 449.66614 0.0
+273 "tomato paste" -144.91197 -39.64072 0.0
+274 "basil" -474.13837 15.578424 0.0
+275 "oregano leaves" -303.18524 -162.0556 0.0
+276 "large shrimp" 147.86977 -124.61692 0.0
+277 "cajun seasoning" -461.16107 107.69158 0.0
+278 "bell pepper" 266.42053 -30.527472 0.0
+279 "celery salt" 159.42183 118.331535 0.0
+280 "chicken sausage" -478.9387 -362.9733 0.0
+281 "paprika" -130.31136 487.00378 0.0
+282 "wild rice" 343.53705 78.655205 0.0
+283 "dried oregano" 391.6991 -405.9869 0.0
+284 "chicken breasts" 421.01886 296.8803 0.0
+285 "minute rice" 183.78798 53.184383 0.0
+286 "red pepper" 128.89516 -76.69413 0.0
+287 "green pepper" -217.57957 194.10101 0.0
+288 "carrot greens" -366.28073 10.260309 0.0
+289 "greens" 469.06445 -285.41754 0.0
+290 "freshly ground pepper" -315.71338 -310.10065 0.0
+291 "pork roast" -283.90942 440.07812 0.0
+292 "bacon grease" 332.45056 -414.80206 0.0
+293 "tomato sauce" 417.4655 -438.77783 0.0
+294 "chicken bouillon granules" -44.83388 -5.043768 0.0
+295 "red beans" -131.98268 -188.38272 0.0
+296 "cooked white rice" -14.613667 168.8913 0.0
+297 "bow-tie pasta" -180.6964 -205.01624 0.0
+298 "yellow corn meal" -298.18427 439.07904 0.0
+299 "ketchup" -289.37463 74.13116 0.0
+300 "finely chopped fresh parsley" 276.1612 -419.54138 0.0
+301 "onion tops" 350.485 -306.21948 0.0
+302 "creole mustard" 31.401012 -464.19473 0.0
+303 "prepared horseradish" -93.20516 -474.91556 0.0
+304 "chicken broth" -474.27267 -440.47635 0.0
+305 "cooked ham" 53.40266 191.7638 0.0
+306 "red wine vinegar" -355.80103 -90.191444 0.0
+307 "duck" -483.99564 366.0993 0.0
+308 "low salt chicken broth" 353.77466 450.16553 0.0
+309 "gumbo" 62.275707 -92.41309 0.0
+310 "crawfish" 157.28017 -91.02073 0.0
+311 "crushed red pepper flakes" 189.06105 -342.11404 0.0
+312 "dried parsley" -432.0053 89.76287 0.0
+313 "chicken breast halves" 373.71466 -297.2402 0.0
+314 "medium shrimp" 118.92524 24.915766 0.0
+315 "diced tomatoes in juice" -222.8019 -434.9713 0.0
+316 "long-grain rice" -480.52966 -77.735085 0.0
+317 "onion powder" -286.70367 102.12469 0.0
+318 "hot pepper sauce" -422.9423 -233.64255 0.0
+319 "crackers" 31.320812 -152.34058 0.0
+320 "cheese slices" 412.4721 -394.58047 0.0
+321 "salad" -201.07262 158.4851 0.0
+322 "hard salami" 314.97424 -119.909065 0.0
+323 "french bread" 317.1836 -192.95026 0.0
+324 "mayonaise" 306.94244 -368.5097 0.0
+325 "pickle juice" -448.221 -406.58142 0.0
+326 "mustard" 117.65333 63.86096 0.0
+327 "serrano peppers" -477.72223 142.15228 0.0
+328 "bok choy" -198.0507 -269.0063 0.0
+329 "chicken meat" 55.57368 296.30493 0.0
+330 "poblano peppers" -318.07596 -434.18353 0.0
+331 "beef sausage" -419.78784 424.12347 0.0
+332 "leeks" -361.60977 78.98748 0.0
+333 "oregano" 315.005 -486.3988 0.0
+334 "diced onions" 33.775707 315.0238 0.0
+335 "clam juice" 288.36798 145.85852 0.0
+336 "diced celery" -290.77185 -426.55884 0.0
+337 "chinese" 114.07258 310.39398 0.0
+338 "toasted sesame oil" -433.90988 477.57812 0.0
+339 "soy sauce" 344.6084 -446.43088 0.0
+340 "fresh bean" 215.54012 -294.7788 0.0
+341 "peeled fresh ginger" -474.8881 136.26123 0.0
+342 "crushed red pepper" 60.0771 -417.15576 0.0
+343 "baby greens" -221.17528 -282.56287 0.0
+344 "sesame oil" -43.3398 -210.77988 0.0
+345 "rice vinegar" -130.69795 -422.52554 0.0
+346 "reduced sodium soy sauce" 303.69537 -385.64233 0.0
+347 "sliced green onions" 205.10042 -451.62714 0.0
+348 "low sodium soy sauce" -7.3017774 -423.8372 0.0
+349 "scallions" 179.43123 -372.42783 0.0
+350 "chopped garlic" 170.33907 -290.08182 0.0
+351 "dried chile" -429.72604 -282.0884 0.0
+352 "cooking wine" 167.71492 -485.3802 0.0
+353 "lettuce" 465.7022 58.336422 0.0
+354 "pork tenderloin" 271.07178 365.4062 0.0
+355 "ginger root" 324.6817 -311.72205 0.0
+356 "light soy sauce" 231.83504 182.7594 0.0
+357 "corn starch" 335.35822 -276.7968 0.0
+358 "starch" -456.31064 286.8534 0.0
+359 "black vinegar" 190.8622 309.6504 0.0
+360 "chrysanthemum" -449.42004 -340.62988 0.0
+361 "roasting chickens" -233.08891 -124.86161 0.0
+362 "bird chile" 391.89258 285.29938 0.0
+363 "Chinese egg noodles" -43.996418 -308.34384 0.0
+364 "star anise" -360.29944 -146.31613 0.0
+365 "fresh ginger" 89.75245 -168.98965 0.0
+366 "peanuts" 237.8506 -141.03506 0.0
+367 "garlic chili sauce" -36.08565 306.1291 0.0
+368 "green beans" 13.792004 63.532284 0.0
+369 "boneless skinless chicken breasts" 469.9301 -435.51013 0.0
+370 "oyster sauce" -398.56308 357.2735 0.0
+371 "red chili peppers" 232.29964 -471.83978 0.0
+372 "five spice" 86.9712 281.3664 0.0
+373 "seasoning salt" 452.86945 59.509823 0.0
+374 "boneless chop pork" 69.41938 -128.74792 0.0
+375 "liquid egg whites" 371.12378 72.473564 0.0
+376 "rice wine" 113.89912 17.67132 0.0
+377 "chili bean paste" 363.82233 506.3147 0.0
+378 "flank steak" -232.1157 244.84283 0.0
+379 "dark soy sauce" -272.1593 32.15771 0.0
+380 "szechwan peppercorns" 409.42767 -338.69257 0.0
+381 "dry sherry" -383.17593 -327.8681 0.0
+382 "rump steak" 201.17738 -148.3436 0.0
+383 "lemon grass" 435.27313 476.78455 0.0
+384 "rice noodles" 335.15442 -353.69098 0.0
+385 "chinese five-spice powder" 232.9405 28.495905 0.0
+386 "tofu" -429.35858 31.69848 0.0
+387 "chives" 287.9218 -183.05371 0.0
+388 "fresh orange juice" -208.83568 -55.328556 0.0
+389 "pineapple chunks" 118.58485 467.25635 0.0
+390 "fish sauce" -63.56673 332.60095 0.0
+391 "long beans" -377.51343 392.24298 0.0
+392 "ginger" 201.2411 -345.3412 0.0
+393 "rice" -95.31231 -312.69824 0.0
+394 "won ton wrappers" -164.30019 -50.11176 0.0
+395 "crabmeat" -371.62036 -10.25028 0.0
+396 "black tea leaves" 229.82942 -295.83768 0.0
+397 "coarse-grain salt" 397.4995 -415.97073 0.0
+398 "chamomile tea" 220.39601 10.810938 0.0
+399 "yellow mustard" -235.9868 249.99738 0.0
+400 "chicken" -280.97186 -61.35837 0.0
+401 "tea bags" -58.191853 223.59296 0.0
+402 "sea salt" -171.97551 -403.72238 0.0
+403 "toasted sesame seeds" 204.6418 167.49573 0.0
+404 "extra firm tofu" -416.10287 113.17974 0.0
+405 "slice" 247.352 233.9607 0.0
+406 "sugar pea" 348.57935 -354.5845 0.0
+407 "Asian chili sauce" 497.5417 142.83197 0.0
+408 "boneless pork shoulder" -345.642 -441.8171 0.0
+409 "shaoxing" 479.21002 -305.18866 0.0
+410 "light brown sugar" 0.9744373 137.29254 0.0
+411 "orange juice" -149.69286 293.37482 0.0
+412 "orange zest" -298.0296 -461.74304 0.0
+413 "red pepper flakes" -337.0495 -141.69604 0.0
+414 "shrimp tails" 382.2378 194.33069 0.0
+415 "sesame seeds" -271.95367 -20.384008 0.0
+416 "ground cayenne pepper" 139.86507 -426.20905 0.0
+417 "ground pepper" -294.68106 282.74933 0.0
+418 "egg whites" -297.24615 1.9428655 0.0
+419 "vinegar" -314.7428 -245.81987 0.0
+420 "purple onion" 134.115 244.77985 0.0
+421 "Shaoxing wine" -418.75305 211.21606 0.0
+422 "roasted peanuts" -229.16652 -311.07608 0.0
+423 "sake" -391.8357 190.53442 0.0
+424 "wood ear mushrooms" 114.82557 246.41681 0.0
+425 "black bean sauce" 487.9632 277.10138 0.0
+426 "dark sesame oil" 339.89478 -436.8726 0.0
+427 "salmon fillets" -206.70082 298.42914 0.0
+428 "shredded cabbage" -74.77465 -284.01285 0.0
+429 "stir fry noodles" 16.98756 -131.30072 0.0
+430 "vegetables" -318.46558 346.95935 0.0
+431 "root vegetables" -461.89615 483.10022 0.0
+432 "snow peas" 97.03864 100.59472 0.0
+433 "cashew nuts" -355.21002 -265.20413 0.0
+434 "mandarin oranges" 497.77124 307.21997 0.0
+435 "broth" 169.33998 255.26581 0.0
+436 "filipino" -9.57909 85.251884 0.0
+437 "grated coconut" 92.89478 -336.67587 0.0
+438 "cassava" -464.2558 423.8249 0.0
+439 "banana leaves" -314.91577 148.94708 0.0
+440 "peppercorns" -213.26137 350.8647 0.0
+441 "elbow pasta" 358.21265 315.1089 0.0
+442 "pineapple rings" -481.85587 -8.063055 0.0
+443 "pickle relish" 436.09143 -445.85507 0.0
+444 "pork belly" -427.5256 181.64417 0.0
+445 "fresh pork fat" 464.3803 -455.26663 0.0
+446 "chicken pieces" 252.66273 302.04004 0.0
+447 "tilapia" -477.69342 421.40436 0.0
+448 "yucca root" 2.5389514 191.47546 0.0
+449 "coconut cream" 234.88991 -209.44122 0.0
+450 "flaked coconut" 33.737804 292.4859 0.0
+451 "beef liver" -169.69298 45.29681 0.0
+452 "squirrel" 281.27094 -311.22485 0.0
+453 "tomato juice" -361.21042 365.9276 0.0
+454 "annatto seeds" -300.12186 319.0454 0.0
+455 "ground peanut" -112.54391 383.85248 0.0
+456 "oxtails" 449.40643 449.36932 0.0
+457 "peanut butter" -490.26453 -266.4175 0.0
+458 "banana flower" -40.152393 435.99548 0.0
+459 "string beans" -41.45049 -379.02637 0.0
+460 "eggplant" 215.29848 -83.077705 0.0
+461 "hard-boiled egg" -310.8225 95.33172 0.0
+462 "soda" -149.0096 -166.72696 0.0
+463 "spring roll wrappers" 60.735424 -71.14002 0.0
+464 "ground pork" -181.3319 100.44811 0.0
+465 "water chestnuts" -105.54058 -121.007484 0.0
+466 "crushed pineapple" 442.979 324.22675 0.0
+467 "calamansi juice" -177.50984 -362.52258 0.0
+468 "raisins" -334.8305 -311.56412 0.0
+469 "fresh spinach" -137.385 -45.356907 0.0
+470 "fresh corn" 150.26546 28.49853 0.0
+471 "baby back ribs" 362.42957 268.1018 0.0
+472 "lumpia wrappers" -279.9521 149.12 0.0
+473 "cabbage" -429.35922 -337.7844 0.0
+474 "diced potatoes" 266.51758 -355.43457 0.0
+475 "ground beef" -386.26093 137.96838 0.0
+476 "cream of tartar" -100.82574 -163.57327 0.0
+477 "vanilla" -416.9724 -17.53971 0.0
+478 "condensed milk" -415.6787 -43.52628 0.0
+479 "coconut oil" -229.99834 493.05865 0.0
+480 "coconut flour" -54.26427 371.12817 0.0
+481 "green olives" -172.66872 433.3125 0.0
+482 "yardlong beans" 213.43044 469.29572 0.0
+483 "water spinach" -221.79332 376.05542 0.0
+484 "triple sec" -469.13528 -183.2648 0.0
+485 "cream of coconut" 348.56445 -476.30606 0.0
+486 "fresh pineapple" -39.15511 317.8413 0.0
+487 "candied pineapple" 54.719982 -313.50223 0.0
+488 "couscous" -433.513 419.66022 0.0
+489 "golden brown sugar" -156.8098 -153.22101 0.0
+490 "whipping cream" -114.00103 -156.84494 0.0
+491 "shiitake" -150.00343 140.16705 0.0
+492 "white onion" -31.329853 -66.81858 0.0
+493 "french" 23.499096 144.758 0.0
+494 "sliced ham" -105.65948 481.3302 0.0
+495 "swiss cheese" -62.183033 84.734856 0.0
+496 "boneless skinless chicken breast halves" 359.7539 -205.2608 0.0
+497 "garlic salt" 113.150826 -72.871956 0.0
+498 "vegetable oil spray" 482.5827 -140.82938 0.0
+499 "large egg whites" -445.17047 378.70447 0.0
+500 "cr?�?�me fra?�?�che" 447.54376 -323.9032 0.0
+501 "creme anglaise" 24.66145 474.54297 0.0
+502 "unsweetened chocolate" -1.0907177 241.23248 0.0
+503 "mint leaves" -233.8217 -209.32272 0.0
+504 "pinenuts" 69.84791 175.89563 0.0
+505 "rouget" 19.61787 310.2536 0.0
+506 "haricots verts" 31.414623 -277.22363 0.0
+507 "dried apricot" -317.00098 -374.0251 0.0
+508 "cinnamon sticks" 142.64088 -325.86316 0.0
+509 "yukon gold potatoes" -97.5993 471.1698 0.0
+510 "fish fillets" -211.94008 -186.83868 0.0
+511 "chopped fresh thyme" 207.56416 -462.3514 0.0
+512 "littleneck clams" 0.1329456 -381.87915 0.0
+513 "mussels" 48.1963 160.57513 0.0
+514 "dry white wine" -418.57288 304.21204 0.0
+515 "hot chili paste" 231.85768 -271.0929 0.0
+516 "caviar" -134.972 -240.62503 0.0
+517 "skim milk" -183.92006 -385.47452 0.0
+518 "seedless red grapes" -218.44914 -431.9096 0.0
+519 "Belgian endive" 465.3615 3.994257 0.0
+520 "small red potato" 437.2506 111.10168 0.0
+521 "vegetable oil cooking spray" 147.95113 263.96356 0.0
+522 "ch?�?�vre" -149.88957 -320.79718 0.0
+523 "stock" 317.8349 374.5475 0.0
+524 "shallots" -160.57664 -354.3221 0.0
+525 "cognac" 404.10168 -475.42053 0.0
+526 "strip steaks" 319.26337 4.674341 0.0
+527 "watercress" -487.13275 178.4685 0.0
+528 "whole peppercorn" 407.37616 1.7364446 0.0
+529 "chopped parsley" -263.80103 -203.551 0.0
+530 "ground nutmeg" -171.59923 157.92084 0.0
+531 "chopped fresh chives" 357.9864 -81.66233 0.0
+532 "gruyere cheese" 63.968517 -279.63794 0.0
+533 "white sandwich bread" -451.53537 505.48175 0.0
+534 "melted butter" -417.8936 459.8507 0.0
+535 "black forest ham" -152.8968 276.40265 0.0
+536 "grated Gruy?�?�re cheese" 264.50586 -220.06827 0.0
+537 "russet" -152.16957 268.70874 0.0
+538 "capers" -157.39903 302.22723 0.0
+539 "juice" 21.073986 13.173456 0.0
+540 "baguette" -247.96837 449.13153 0.0
+541 "anchovy fillets" -466.14783 -484.5579 0.0
+542 "kalamata" 319.95203 57.722836 0.0
+543 "thyme sprigs" 262.16174 -293.34555 0.0
+544 "beef demi-glace" -389.22433 -272.3189 0.0
+545 "red wine" -70.836266 146.3374 0.0
+546 "fresh rosemary" -426.66824 431.19623 0.0
+547 "fennel seeds" 448.17755 -460.75516 0.0
+548 "milk chocolate" 356.04126 -105.703316 0.0
+549 "cocoa powder" 101.25129 62.390194 0.0
+550 "noodles" -213.39723 396.7243 0.0
+551 "saffron" 142.08345 -410.66104 0.0
+552 "cayenne" 48.810863 -68.57554 0.0
+553 "clams" -223.67003 -354.10223 0.0
+554 "sole fillet" -468.48557 114.91955 0.0
+555 "fresh lemon juice" 242.83778 334.6574 0.0
+556 "lemon wedge" -326.6476 -153.72519 0.0
+557 "coarse kosher salt" -103.896416 -474.58255 0.0
+558 "unsweetened cocoa powder" 381.78967 475.0644 0.0
+559 "goat cheese" -226.73494 324.3404 0.0
+560 "large egg yolks" 266.10742 157.68921 0.0
+561 "cooking spray" 118.189156 206.75305 0.0
+562 "reduced fat milk" 491.38477 156.59326 0.0
+563 "low-fat buttermilk" -269.2699 226.83472 0.0
+564 "filet mignon" -465.85748 68.37121 0.0
+565 "canned beef broth" -189.01302 401.99994 0.0
+566 "avocado" -499.79794 354.45496 0.0
+567 "black olives" 176.39949 -289.39468 0.0
+568 "Piment d'Espelette" -48.555744 92.01202 0.0
+569 "wine vinegar" 343.77783 138.6806 0.0
+570 "escargot" 380.5382 -437.11536 0.0
+571 "tarragon" -11.129902 -135.29742 0.0
+572 "vanilla sugar" -428.65976 154.84247 0.0
+573 "greek" -277.1712 -18.997686 0.0
+574 "ground turkey breast" 87.5481 62.118526 0.0
+575 "lettuce leaves" -42.053272 116.21722 0.0
+576 "reduced fat mayonnaise" 43.326733 441.14252 0.0
+577 "ground cumin" -125.71209 -54.733463 0.0
+578 "whole wheat pita" 127.00623 2.58111 0.0
+579 "ground red pepper" 144.35011 -148.3465 0.0
+580 "parsley leaves" -427.41595 502.2398 0.0
+581 "cinnamon" 124.6504 -58.53641 0.0
+582 "brown lentils" 403.64697 231.0774 0.0
+583 "zucchini" -318.86407 199.25208 0.0
+584 "pecorino cheese" -189.5384 398.5277 0.0
+585 "russet potatoes" -320.42352 -176.91824 0.0
+586 "feta cheese crumbles" -36.635883 253.52014 0.0
+587 "phyllo dough" 442.60693 -320.7063 0.0
+588 "semolina flour" -85.78701 -105.965065 0.0
+589 "ranch dressing" 151.84254 377.16345 0.0
+590 "greek yogurt" 492.5522 -21.275549 0.0
+591 "lemon zest" 256.4989 -320.5845 0.0
+592 "almond extract" 264.26318 -26.922186 0.0
+593 "greek style plain yogurt" 439.20715 -163.36078 0.0
+594 "poppyseeds" -312.13037 137.80042 0.0
+595 "amaretto" -414.77878 -38.02976 0.0
+596 "low-fat milk" -422.71155 198.52606 0.0
+597 "dark chocolate" -497.02762 -253.0296 0.0
+598 "boiler" -140.29393 -476.32513 0.0
+599 "whole milk greek yogurt" -148.06511 -339.5392 0.0
+600 "almonds" 403.39062 -318.78632 0.0
+601 "almond meal" -151.97728 269.13257 0.0
+602 "fresh herbs" 382.63367 445.27423 0.0
+603 "chard" -162.75273 472.08002 0.0
+604 "red potato" 245.64699 -319.974 0.0
+605 "walnuts" -244.87831 250.97058 0.0
+606 "baby spinach leaves" -143.87447 40.898983 0.0
+607 "pears" -177.69359 3.3884525 0.0
+608 "diet lemon lime soda" -209.68346 102.194695 0.0
+609 "salad dressing" -433.75134 -351.0441 0.0
+610 "toasted pine nuts" 88.82099 345.3213 0.0
+611 "feta cheese" 404.07507 476.15985 0.0
+612 "balsamic vinaigrette salad dressing" -14.015369 423.331 0.0
+613 "pepperoncini" -426.24402 132.37866 0.0
+614 "cucumber" 269.6192 255.13696 0.0
+615 "romaine lettuce" 158.56654 250.42694 0.0
+616 "fresh dill" -40.07329 -203.27103 0.0
+617 "sour cream" 314.12836 -47.995426 0.0
+618 "greek seasoning" -61.116566 -213.09653 0.0
+619 "plain yogurt" -422.17712 -128.24225 0.0
+620 "pita bread rounds" 9.9723625 371.47083 0.0
+621 "low-fat plain greek yogurt" 317.1255 405.22894 0.0
+622 "grated lemon zest" -376.96442 272.59418 0.0
+623 "cookies" -43.58272 -400.20547 0.0
+624 "fresh blueberries" 160.15144 88.86358 0.0
+625 "herb dressing" -388.91077 479.75775 0.0
+626 "pitas" 245.82368 386.90118 0.0
+627 "chopped fresh mint" 153.26137 -374.91434 0.0
+628 "lower sodium chicken broth" 18.402905 476.7406 0.0
+629 "yellow squash" -464.80325 507.84875 0.0
+630 "linguine" -320.45728 150.91779 0.0
+631 "grape tomatoes" 404.49927 431.24268 0.0
+632 "cider vinegar" -75.372154 211.15723 0.0
+633 "cherry tomatoes" -340.55963 -86.85816 0.0
+634 "rotisserie chicken" 49.49043 306.7307 0.0
+635 "brine-cured olives" -386.73102 9.45315 0.0
+636 "plain low-fat yogurt" -372.63153 465.0133 0.0
+637 "cooked rice" -136.88396 382.11218 0.0
+638 "dried mint flakes" -345.06104 -292.5448 0.0
+639 "dried dill" -207.88713 -117.619576 0.0
+640 "grape leaves" -22.606739 313.13318 0.0
+641 "finely chopped onion" -127.39886 42.175106 0.0
+642 "chickpeas" -380.09546 -382.75726 0.0
+643 "roast red peppers" -416.18158 144.48248 0.0
+644 "drain" 376.47034 -286.66605 0.0
+645 "half & half" -190.79662 478.47583 0.0
+646 "roasted garlic" -363.0051 65.793144 0.0
+647 "bread" 36.470165 -24.220037 0.0
+648 "fresh tomatoes" -30.389698 -166.98563 0.0
+649 "hothouse cucumber" -452.13873 -328.60596 0.0
+650 "indian" 417.6172 -348.09738 0.0
+651 "brown rice" 58.49452 336.10522 0.0
+652 "red lentils" -180.9409 -259.2054 0.0
+653 "ground cardamom" -62.521534 186.79529 0.0
+654 "(14.5 oz.) diced tomatoes" -288.17322 440.5783 0.0
+655 "garam masala" 229.47847 -203.1362 0.0
+656 "ground turmeric" -451.67706 -267.2613 0.0
+657 "cumin seed" 183.6722 201.06024 0.0
+658 "chillies" 11.098461 -151.74869 0.0
+659 "asafoetida" -107.45672 -282.66064 0.0
+660 "baby spinach" 194.5063 -187.30905 0.0
+661 "mustard oil" -55.28243 192.92291 0.0
+662 "mung beans" 297.30103 -339.38098 0.0
+663 "green chilies" -295.94495 222.57288 0.0
+664 "red quinoa" 257.24377 96.256645 0.0
+665 "curry" -58.53066 384.14923 0.0
+666 "chopped cilantro" 451.1574 -422.3521 0.0
+667 "asafetida" 66.45234 -310.15146 0.0
+668 "brown cardamom" 182.50777 157.9602 0.0
+669 "ginger paste" 132.0414 261.08728 0.0
+670 "coriander powder" 183.46999 -69.731575 0.0
+671 "cilantro leaves" 119.97315 -299.18393 0.0
+672 "masala" -230.42729 -408.8906 0.0
+673 "melted fat" -247.97386 -240.87985 0.0
+674 "ghee" -397.60605 463.29315 0.0
+675 "ground fennel" 219.06221 -333.71793 0.0
+676 "cardamom" 239.41743 299.89984 0.0
+677 "basmati rice" -228.96526 -57.94672 0.0
+678 "clove" -219.96098 329.0888 0.0
+679 "tumeric" 69.23908 -419.29913 0.0
+680 "curry powder" -47.15328 293.28845 0.0
+681 "vegetable broth" -433.66107 258.46667 0.0
+682 "spelt flour" -68.31902 -313.46533 0.0
+683 "chiles" -49.790455 -386.60385 0.0
+684 "almond milk" 16.61317 0.16823778 0.0
+685 "cauliflower" -135.60301 -292.93597 0.0
+686 "edamame" 70.86463 -450.20288 0.0
+687 "fenugreek seeds" -298.9994 493.5453 0.0
+688 "fat free yogurt" 265.82104 375.37646 0.0
+689 "cooked long-grain brown rice" 251.04317 493.04944 0.0
+690 "boneless chicken skinless thigh" 253.67867 -218.54709 0.0
+691 "organic chicken" 392.90082 -104.043495 0.0
+692 "curry sauce" 360.8932 316.06555 0.0
+693 "cumin" -198.87596 7.563532 0.0
+694 "yoghurt" -224.51558 374.49164 0.0
+695 "jasmine rice" -134.0131 284.67126 0.0
+696 "toasted coconut" -12.618366 157.96967 0.0
+697 "fresh cilantro" -371.63904 212.20953 0.0
+698 "garlic paste" -66.6206 417.72864 0.0
+699 "baby potatoes" -444.98206 -78.577736 0.0
+700 "whole wheat flour" 396.90436 271.0971 0.0
+701 "paneer" 406.2215 -239.29889 0.0
+702 "amchur" 217.67726 389.16028 0.0
+703 "sunflower seeds" 280.47906 -4.021124 0.0
+704 "saffron threads" -222.51161 24.380793 0.0
+705 "unsalted pistachios" 160.57991 439.66315 0.0
+706 "corn syrup" 45.6844 -328.20828 0.0
+707 "chickpea flour" -69.4454 85.411 0.0
+708 "asafoetida powder" 191.60109 -361.18304 0.0
+709 "dried red chile peppers" -115.05108 -239.38351 0.0
+710 "cubed potatoes" 401.05597 436.46973 0.0
+711 "lime juice" 209.81294 399.3023 0.0
+712 "yellow bell pepper" 70.1504 -301.3759 0.0
+713 "tandoori spices" -220.93697 -214.82217 0.0
+714 "cilantro" -7.9888196 286.2508 0.0
+715 "red chili powder" -119.61581 -482.05493 0.0
+716 "kasuri methi" -499.26395 339.9533 0.0
+717 "vegetable stock" 161.59554 -484.49338 0.0
+718 "red curry paste" -208.30989 306.83606 0.0
+719 "nonfat yogurt plain" 171.41182 -419.4534 0.0
+720 "nonfat milk" -201.56807 386.68097 0.0
+721 "kidney beans" 357.78998 432.02948 0.0
+722 "coriander" 73.93256 417.6048 0.0
+723 "salsa" 282.55896 130.47931 0.0
+724 "burger buns" 97.381905 -47.18494 0.0
+725 "low-fat natural yogurt" 112.78724 10.473658 0.0
+726 "capsicum" 307.7608 167.77655 0.0
+727 "tomato pur?�??e" 157.35182 74.60589 0.0
+728 "fresh coriander" -48.510303 281.04706 0.0
+729 "florets" 331.42975 300.24115 0.0
+730 "red capsicum" -476.15308 372.23505 0.0
+731 "marinade" -47.85979 463.70972 0.0
+732 "olives" 182.48415 -163.02069 0.0
+733 "taro" 195.32442 -103.84608 0.0
+734 "serrano chile" 16.246471 231.54272 0.0
+735 "new potatoes" -123.542625 51.063046 0.0
+736 "chutney" 463.64148 -71.43925 0.0
+737 "chaat masala" -42.055805 -114.39741 0.0
+738 "curry leaves" 492.67944 -169.32071 0.0
+739 "brown mustard seeds" 330.55988 -163.83643 0.0
+740 "waxy potatoes" 377.44525 370.26068 0.0
+741 "fenugreek" -31.448383 -396.87152 0.0
+742 "cardamom pods" 36.639843 161.03448 0.0
+743 "irish" -484.07135 50.670284 0.0
+744 "smoked streaky bacon" -64.53396 -38.487125 0.0
+745 "reduced sodium chicken broth" -274.2768 274.47156 0.0
+746 "leg of lamb" 494.61493 60.186275 0.0
+747 "fresh parsley leaves" -55.48662 293.57086 0.0
+748 "coconut" -201.25932 -201.03879 0.0
+749 "herbal tea" 11.258129 -117.88538 0.0
+750 "color food green" 151.69612 -286.0039 0.0
+751 "savoy cabbage" -477.50006 -227.38904 0.0
+752 "irish bacon" -313.06573 -307.96268 0.0
+753 "fresh chives" 405.25085 -165.64438 0.0
+754 "molasses" -191.13841 -384.44775 0.0
+755 "turbinado" 134.3838 -140.98315 0.0
+756 "idaho potatoes" -285.43524 201.40222 0.0
+757 "green apples" -266.8902 269.93884 0.0
+758 "bologna" -374.7871 125.49261 0.0
+759 "english cucumber" -96.87069 412.54303 0.0
+760 "pickles" -357.4286 69.78326 0.0
+761 "peas" 245.30305 80.2763 0.0
+762 "toasted wheat germ" 338.4463 28.238092 0.0
+763 "old-fashioned oats" -447.803 -416.12424 0.0
+764 "Nutella" 283.50946 64.73675 0.0
+765 "low-fat yogurt" -419.3878 -18.70893 0.0
+766 "cracked black pepper" -273.15958 -271.33203 0.0
+767 "sorrel" -454.7804 51.42346 0.0
+768 "lamb" -451.34924 502.86865 0.0
+769 "sliced carrots" -186.32384 216.91327 0.0
+770 "lower sodium beef broth" 426.04095 -16.231756 0.0
+771 "whole grain dijon mustard" -70.891624 -100.473915 0.0
+772 "baby turnips" -124.72686 -24.956366 0.0
+773 "turnips" 137.60512 -273.74005 0.0
+774 "lamb stock" 463.9242 313.78455 0.0
+775 "parsnips" 56.370678 -404.8862 0.0
+776 "orange marmalade" 22.418407 42.11462 0.0
+777 "golden raisins" -17.552937 -143.46927 0.0
+778 "whole wheat breadcrumbs" 126.82026 487.41052 0.0
+779 "fully cooked ham" -387.57947 -230.1532 0.0
+780 "beef stew meat" 473.40125 -79.297066 0.0
+781 "Guinness Beer" -379.71228 -46.350468 0.0
+782 "caraway seeds" 20.377758 -274.45663 0.0
+783 "italian" -376.33728 -235.23267 0.0
+784 "coffee granules" -66.650475 428.56165 0.0
+785 "vanilla low-fat frozen yogurt" -442.23557 412.68457 0.0
+786 "brewed coffee" 438.35046 -481.86273 0.0
+787 "Dutch-processed cocoa powder" 372.13245 144.495 0.0
+788 "semi-sweet chocolate morsels" -339.94208 -290.94788 0.0
+789 "cauliflower florets" 266.7763 20.077143 0.0
+790 "chopped pecans" 402.58765 198.68628 0.0
+791 "parmigiano reggiano cheese" 392.47113 -362.00293 0.0
+792 "pearl barley" -383.56448 504.26617 0.0
+793 "fat free less sodium chicken broth" 54.171276 -330.289 0.0
+794 "truffle salt" -12.4903755 -329.13208 0.0
+795 "penne" -22.980122 212.9646 0.0
+796 "fresh parmesan cheese" -317.17096 -3.67597 0.0
+797 "part-skim mozzarella cheese" 121.191536 -215.14725 0.0
+798 "Italian turkey sausage" -207.65111 -68.121315 0.0
+799 "pasta sauce" -135.18776 240.8255 0.0
+800 "mozzarella cheese" 417.5028 486.37976 0.0
+801 "parsley flakes" 113.4585 27.996088 0.0
+802 "panko breadcrumbs" -325.56097 286.99255 0.0
+803 "great northern beans" 40.246655 -40.573338 0.0
+804 "plum tomatoes" 103.556526 430.86584 0.0
+805 "fresh basil" -287.72156 130.63892 0.0
+806 "fresh oregano" 106.83216 399.87402 0.0
+807 "pitted black olives" -182.77931 -309.58493 0.0
+808 "seedless oranges" 70.56257 -395.49228 0.0
+809 "lasagna noodles" 68.0503 -74.97303 0.0
+810 "marinara sauce" -226.47408 -426.82312 0.0
+811 "low-fat cottage cheese" -365.49225 -481.64948 0.0
+812 "basil leaves" -470.79648 409.63922 0.0
+813 "stewed tomatoes" 126.55677 -90.10709 0.0
+814 "ground oregano" 265.5821 -96.04063 0.0
+815 "anchovy paste" 238.15785 388.5802 0.0
+816 "fat-free chicken broth" 407.19177 -398.6491 0.0
+817 "olive oil flavored cooking spray" 148.92 -67.775826 0.0
+818 "boneless chicken thighs" -8.582783 208.44836 0.0
+819 "dried tarragon leaves" 176.70338 -169.09344 0.0
+820 "polenta" -75.248405 -51.99805 0.0
+821 "reduced fat cream cheese" -23.99709 -182.91068 0.0
+822 "white wine" -335.4532 -139.31796 0.0
+823 "prosciutto" -215.04857 -233.9195 0.0
+824 "part-skim mozzarella" -102.05416 -403.37277 0.0
+825 "seasoned bread crumbs" -161.9622 27.554987 0.0
+826 "pecorino romano cheese" -17.935139 -60.436222 0.0
+827 "lean ground turkey" 82.14399 102.14983 0.0
+828 "egg beaters" 8.128185 162.77051 0.0
+829 "sausage links" -239.73695 -313.27563 0.0
+830 "fettucine" 357.13873 328.8578 0.0
+831 "fat free milk" 260.26654 77.695366 0.0
+832 "artichoke hearts" -474.19818 -185.72473 0.0
+833 "sweet italian sausage" -134.6505 -456.0717 0.0
+834 "cream" -181.1978 -335.34222 0.0
+835 "pasta" -311.7127 -441.01468 0.0
+836 "pumpkin pur?�??e" 227.16634 -131.43576 0.0
+837 "beef bouillon granules" 123.39759 -282.89886 0.0
+838 "dried basil" 442.32642 274.86017 0.0
+839 "grated parmesan cheese" -391.89227 -251.92056 0.0
+840 "spaghetti" 491.6336 -327.06107 0.0
+841 "sherry" 350.2865 293.37073 0.0
+842 "lady fingers" -76.548485 505.17285 0.0
+843 "whipped cream" -51.99422 8.914148 0.0
+844 "genoise" -181.40526 -212.56949 0.0
+845 "pistachio nuts" -494.84323 119.896355 0.0
+846 "angelica" 159.75826 76.19097 0.0
+847 "candied cherries" -70.64727 -231.60022 0.0
+848 "sausage casings" 251.71785 -260.26688 0.0
+849 "risotto mix" -412.19287 366.98358 0.0
+850 "crimini mushrooms" -47.536762 366.07062 0.0
+851 "tapenade" 392.3858 -300.43866 0.0
+852 "fresh asparagus" 449.05975 -128.24887 0.0
+853 "canned chicken broth" -313.21246 -304.49158 0.0
+854 "rotini" 191.91664 -236.66788 0.0
+855 "shredded mozzarella cheese" 16.816723 -356.24597 0.0
+856 "quick-cooking barley" 387.27136 47.291073 0.0
+857 "quinoa" -21.031055 110.68188 0.0
+858 "1% low-fat milk" 140.08571 484.32397 0.0
+859 "asparagus spears" -136.94191 -21.015509 0.0
+860 "arborio rice" -61.821583 240.43024 0.0
+861 "italian seasoning" -268.62842 -165.81384 0.0
+862 "jamaican" -326.69617 499.87854 0.0
+863 "dry bread crumbs" -90.1513 391.36975 0.0
+864 "shortening" -193.98033 274.09253 0.0
+865 "lean ground beef" -393.9673 -223.2864 0.0
+866 "ground allspice" -401.43295 465.69104 0.0
+867 "ground thyme" -485.94095 256.76392 0.0
+868 "corn flakes" -436.37772 228.36322 0.0
+869 "grate lime peel" -181.30498 442.93964 0.0
+870 "jerk seasoning" 406.65924 -199.04718 0.0
+871 "honey mustard dressing" -31.541645 89.58538 0.0
+872 "mango" -224.20302 288.07355 0.0
+873 "allspice" -47.902668 350.96112 0.0
+874 "jamaican rum" 75.3874 309.77014 0.0
+875 "pineapple slices" -416.77612 -234.12592 0.0
+876 "pineapple juice" 448.23334 49.186947 0.0
+877 "cocktail cherries" 474.64856 298.2315 0.0
+878 "coconut rum" -213.79256 -10.099615 0.0
+879 "steak sauce" -33.025257 477.61194 0.0
+880 "low sodium worcestershire sauce" 290.1772 -446.48273 0.0
+881 "chips" 265.26605 56.02325 0.0
+882 "bottled chili sauce" -332.47693 -76.66428 0.0
+883 "no salt added ketchup" 433.1104 -374.6641 0.0
+884 "beef tenderloin" -470.82947 -428.68866 0.0
+885 "butter flavor shortening" -304.8401 324.45007 0.0
+886 "unseasoned breadcrumbs" -72.06222 393.2666 0.0
+887 "callaloo" -292.7641 106.07635 0.0
+888 "squash" 266.1363 -98.773994 0.0
+889 "thyme leaves" 67.344124 30.078852 0.0
+890 "jamaican jerk season" -7.258229 -378.04413 0.0
+891 "pork strips" 361.45453 -296.349 0.0
+892 "plum sauce" -390.91223 -292.76804 0.0
+893 "sweet pepper" 464.6565 298.16357 0.0
+894 "unsweetened coconut milk" -493.08478 -225.9454 0.0
+895 "fresh thyme leaves" -348.6903 -461.6539 0.0
+896 "rump roast" 73.74586 161.97467 0.0
+897 "ground sage" 307.06738 -318.46832 0.0
+898 "chili flakes" 317.92877 119.89117 0.0
+899 "granulated garlic" -318.84326 -216.98358 0.0
+900 "jerk paste" -10.656849 -83.87577 0.0
+901 "hot chili" 169.06007 478.15515 0.0
+902 "habanero" -198.37758 503.2647 0.0
+903 "chili pepper" 73.746284 102.634514 0.0
+904 "long grain brown rice" -102.10186 163.24536 0.0
+905 "crystallized ginger" -342.13766 219.43616 0.0
+906 "white vinegar" 144.44478 508.2744 0.0
+907 "skinless chicken pieces" -430.19998 -475.67883 0.0
+908 "ice water" 185.23946 319.71844 0.0
+909 "kidney" 403.3122 -338.76016 0.0
+910 "japanese" 445.3329 -30.284887 0.0
+911 "mirin" 233.36116 -305.1119 0.0
+912 "seaweed" 432.0619 -410.75674 0.0
+913 "soda water" 460.13745 -140.29514 0.0
+914 "dashi" -249.48518 -278.42807 0.0
+915 "tangerine" 188.6988 -267.07623 0.0
+916 "shoyu" 223.29579 -68.54359 0.0
+917 "dried fish flakes" -326.56854 163.86255 0.0
+918 "dried sardines" 384.51562 -271.85657 0.0
+919 "konbu" 64.55018 132.45459 0.0
+920 "dried bonito flakes" 404.06995 204.19379 0.0
+921 "dried shiitake mushrooms" -191.89427 207.09717 0.0
+922 "dried kelp" 190.64833 -7.674078 0.0
+923 "napa cabbage" -428.52066 425.21112 0.0
+924 "gyoza" 20.550793 498.9292 0.0
+925 "tuna" 493.10107 229.47693 0.0
+926 "sliced cucumber" -455.72913 -114.410194 0.0
+927 "chile powder" -111.86446 -441.46756 0.0
+928 "kim chee" 433.93762 -61.079227 0.0
+929 "honeydew melon" 281.13812 312.98865 0.0
+930 "plum wine" 252.09065 -205.82169 0.0
+931 "red food coloring" -217.80864 195.93842 0.0
+932 "gari" 345.89655 459.59595 0.0
+933 "gluten flour" 374.7887 361.7058 0.0
+934 "daikon" -299.20276 226.06146 0.0
+935 "seafood" -358.25735 397.4016 0.0
+936 "mi" -276.28717 340.70642 0.0
+937 "radishes" -180.35085 -91.07755 0.0
+938 "stevia" -131.69435 -226.82468 0.0
+939 "tamari soy sauce" -157.04924 386.3507 0.0
+940 "shirataki" -136.55562 509.7845 0.0
+941 "gyoza skins" 215.39705 83.283134 0.0
+942 "katakuriko" 60.889843 -426.52197 0.0
+943 "Japanese rice vinegar" 129.70894 360.43542 0.0
+944 "green cabbage" 79.35682 -113.56812 0.0
+945 "chai tea" 245.51253 315.94135 0.0
+946 "mashed banana" 489.48962 167.35413 0.0
+947 "low-fat cream cheese" -68.88625 -446.9146 0.0
+948 "kirby cucumbers" -242.07866 286.9724 0.0
+949 "Fuji Apple" -423.5547 -379.22348 0.0
+950 "food colouring" 48.469982 -107.10172 0.0
+951 "rose water" -207.47679 2.893671 0.0
+952 "steamed rice" -235.34306 -341.00055 0.0
+953 "soft-boiled egg" -72.99102 -470.29852 0.0
+954 "button mushrooms" -89.88348 214.6098 0.0
+955 "ramen noodles" 345.98212 -262.14395 0.0
+956 "chili garlic paste" 442.09827 -334.64996 0.0
+957 "ajwain" 358.78302 15.091608 0.0
+958 "chat masala" -201.85411 -369.9715 0.0
+959 "color food orang" 495.79688 331.4975 0.0
+960 "japanese cucumber" -312.83008 -112.964 0.0
+961 "corn" 88.30518 -18.633184 0.0
+962 "Japanese Mayonnaise" 53.514355 48.844418 0.0
+963 "virgin olive oil" -254.96004 37.917538 0.0
+964 "tamarind paste" -153.75093 164.66437 0.0
+965 "oats" 371.83386 157.75745 0.0
+966 "textured soy protein" -144.19533 -210.98853 0.0
+967 "firmly packed brown sugar" -161.2339 -37.215366 0.0
+968 "tri tip" 416.1969 -152.1225 0.0
+969 "raw cane sugar" 263.46332 474.28552 0.0
+970 "corn oil" 213.47273 -415.60318 0.0
+971 "tonkatsu sauce" 149.72127 -22.68772 0.0
+972 "filet" -210.3589 -27.655554 0.0
+973 "green tea" 297.37146 252.99298 0.0
+974 "bonito flakes" -413.76428 248.49725 0.0
+975 "soba" 482.32507 332.24664 0.0
+976 "peanut sauce" -467.21057 -366.16498 0.0
+977 "korean" 394.98273 -203.55301 0.0
+978 "kimchi" 252.88203 -111.246376 0.0
+979 "Gochujang base" 220.70912 178.89801 0.0
+980 "seeds" -65.943016 78.907585 0.0
+981 "squid" -452.17358 205.55518 0.0
+982 "pepper flakes" -212.21465 -184.00519 0.0
+983 "roasted sesame seeds" -3.4091077 454.247 0.0
+984 "japanese eggplants" -188.21303 281.74176 0.0
+985 "red cabbage" 76.87226 508.72052 0.0
+986 "cubed ham" 259.40332 -456.458 0.0
+987 "extra large eggs" 302.76605 -162.84363 0.0
+988 "shredded zucchini" -180.65242 26.647394 0.0
+989 "sweet rice wine" -480.87573 434.3681 0.0
+990 "ginger juice" 14.042309 -479.49475 0.0
+991 "sambal ulek" -272.0006 -267.2794 0.0
+992 "chilli paste" -264.11472 -234.21866 0.0
+993 "sirloin" 442.25403 408.87488 0.0
+994 "glass noodles" 158.16982 493.80298 0.0
+995 "spinach" -260.90433 491.78326 0.0
+996 "imitation crab meat" 481.0161 -228.39743 0.0
+997 "enokitake" -261.94507 -388.06683 0.0
+998 "napa cabbage leaves" 102.555 -356.56403 0.0
+999 "firm tofu" 185.93251 322.6546 0.0
+1000 "fresca" -158.26353 353.5976 0.0
+1001 "baby radishes" 195.49843 171.3797 0.0
+1002 "boiled eggs" -218.48027 -114.453224 0.0
+1003 "buckwheat noodles" -44.76479 -397.94 0.0
+1004 "rice syrup" 149.83382 158.80725 0.0
+1005 "fishcake" 404.17334 -170.47897 0.0
+1006 "beansprouts" 410.57983 -12.20368 0.0
+1007 "toasted nori" 448.8764 -457.64978 0.0
+1008 "roast" 398.07996 -174.31458 0.0
+1009 "miso paste" 288.89038 -337.01273 0.0
+1010 "nori" -104.240074 391.58856 0.0
+1011 "jumbo shrimp" -187.52013 422.00586 0.0
+1012 "kale" -466.51355 510.82245 0.0
+1013 "gochugaru" -173.7686 -311.8557 0.0
+1014 "chinese eggplants" 257.8606 -114.3256 0.0
+1015 "kimchi juice" 90.11158 -163.53418 0.0
+1016 "rice cakes" -84.095055 58.06268 0.0
+1017 "boneless chicken breast" -256.1731 434.09656 0.0
+1018 "sweet rice" -315.03864 -474.3337 0.0
+1019 "sweet red bean paste" -269.162 -323.68787 0.0
+1020 "maple syrup" 180.25246 -170.45114 0.0
+1021 "fried eggs" 253.14095 -184.68823 0.0
+1022 "fresh shiitake mushrooms" 76.43934 443.995 0.0
+1023 "steamed white rice" 122.93354 -210.15823 0.0
+1024 "coconut aminos" -9.356037 468.22382 0.0
+1025 "mexican" 116.545906 -114.10233 0.0
+1026 "cheese" 191.7853 444.83905 0.0
+1027 "tortillas" 81.51783 -462.94293 0.0
+1028 "Mexican cheese blend" 424.71222 111.320854 0.0
+1029 "fajita seasoning mix" -400.53177 307.56378 0.0
+1030 "Daisy Sour Cream" -232.5016 -471.44095 0.0
+1031 "blue corn tortilla chips" 465.40503 -307.8942 0.0
+1032 "banana peppers" -23.602345 -175.62564 0.0
+1033 "tortilla chips" 108.385994 -386.70215 0.0
+1034 "crema mexican" 215.3409 -259.8328 0.0
+1035 "epazote" 348.94507 401.2022 0.0
+1036 "tomatillos" 415.48822 275.28156 0.0
+1037 "shredded cheddar cheese" -434.5403 -401.211 0.0
+1038 "flour tortillas" -234.76628 -13.63587 0.0
+1039 "chorizo sausage" 424.63953 153.06012 0.0
+1040 "shredded pepper jack cheese" -7.808888 -82.0532 0.0
+1041 "taco shells" -179.42204 423.62897 0.0
+1042 "minced onion" 166.07448 -284.32648 0.0
+1043 "shredded lettuce" -437.68787 -31.13001 0.0
+1044 "corn flour" -274.98267 205.03961 0.0
+1045 "beef bouillon" -348.4014 254.32208 0.0
+1046 "ground chuck" 307.75928 -393.7937 0.0
+1047 "corn tortillas" -299.384 268.84973 0.0
+1048 "condensed cream of chicken soup" -239.73912 -400.6022 0.0
+1049 "condensed cream of mushroom soup" 153.56715 -468.86407 0.0
+1050 "picante sauce" 377.68933 -344.4145 0.0
+1051 "frozen corn kernels" 496.65845 122.40264 0.0
+1052 "crushed garlic" 41.3531 403.60675 0.0
+1053 "chile paste" -432.30664 190.82306 0.0
+1054 "pico de gallo" 415.0432 317.563 0.0
+1055 "guacamole" 409.52466 -161.08844 0.0
+1056 "cotija" -223.62614 -322.71362 0.0
+1057 "carnitas" -149.13264 427.24634 0.0
+1058 "salsa verde" 376.0973 -420.14075 0.0
+1059 "poblano chiles" 143.48189 106.20214 0.0
+1060 "halibut fillets" 442.0006 -238.38327 0.0
+1061 "yellow corn" -463.50327 -178.06241 0.0
+1062 "grated jack cheese" 73.874275 127.75762 0.0
+1063 "taco seasoning" -373.3556 133.7055 0.0
+1064 "ground turkey" 312.177 180.63367 0.0
+1065 "green chile" -312.5544 -73.37812 0.0
+1066 "tomatoes with juice" -394.5985 -12.015753 0.0
+1067 "lard" -49.118122 507.35175 0.0
+1068 "pork shoulder roast" -250.21843 -61.1742 0.0
+1069 "tomato salsa" -8.143269 -370.26135 0.0
+1070 "pickled onion" 129.86073 297.40485 0.0
+1071 "achiote paste" -51.24892 -286.7738 0.0
+1072 "base" -250.42152 484.5639 0.0
+1073 "fine salt" 302.6386 -111.009895 0.0
+1074 "cocoa" 110.9101 91.06957 0.0
+1075 "tequila" 333.23315 -462.98157 0.0
+1076 "american cheese slices" 470.73114 -141.10596 0.0
+1077 "white bread" 171.39821 -338.0506 0.0
+1078 "red kidnei beans" 386.45953 254.13751 0.0
+1079 "rins and drain" -423.9428 -203.70358 0.0
+1080 "ripe olives" -252.83992 -200.77393 0.0
+1081 "reduced fat cheddar cheese" 177.60036 116.758354 0.0
+1082 "iceberg lettuce" -320.81854 32.211483 0.0
+1083 "chili" -49.60866 112.63665 0.0
+1084 "Mexican oregano" -185.97392 -182.55197 0.0
+1085 "buffalo" 103.73615 454.9475 0.0
+1086 "organic chicken broth" 411.03717 -255.38516 0.0
+1087 "pepper jack" 413.68298 -319.3587 0.0
+1088 "masa" -261.3794 -478.00208 0.0
+1089 "italian salad dressing" 257.28052 -71.59159 0.0
+1090 "refried beans" -64.89922 -404.85825 0.0
+1091 "southern_us" 256.42932 240.87372 0.0
+1092 "frozen pie crust" 293.9436 -296.57498 0.0
+1093 "bourbon whiskey" 490.2202 -117.449684 0.0
+1094 "chop fine pecan" -452.0382 -275.1886 0.0
+1095 "chocolate chips" -307.3414 -286.2558 0.0
+1096 "low-sodium fat-free chicken broth" 263.25098 -47.02985 0.0
+1097 "nonfat buttermilk" -283.06525 -92.327705 0.0
+1098 "green peas" -104.01244 -98.84199 0.0
+1099 "stevia powder" -182.09483 201.37592 0.0
+1100 "peaches" 413.8523 -166.30188 0.0
+1101 "pie crust" -18.790089 430.5816 0.0
+1102 "yellow mustard seeds" -361.27344 488.58795 0.0
+1103 "pork ribs" -389.54266 314.4837 0.0
+1104 "baby bok choy" -371.55972 -126.28773 0.0
+1105 "hungarian paprika" 373.16595 328.49005 0.0
+1106 "apple cider vinegar" 482.7345 -405.6654 0.0
+1107 "oyster mushrooms" -98.33877 31.296015 0.0
+1108 "chipotle peppers" -67.76653 -99.01725 0.0
+1109 "instant espresso powder" 346.88202 397.21948 0.0
+1110 "fines herbes" -50.896137 -465.4569 0.0
+1111 "lump crab meat" 491.06055 -454.44833 0.0
+1112 "Italian seasoned breadcrumbs" 404.2129 489.32 0.0
+1113 "vegetable shortening" 239.49672 -244.25229 0.0
+1114 "cake flour" 487.9779 15.015192 0.0
+1115 "chocolate baking bar" -167.84557 -189.39758 0.0
+1116 "Domino Light Brown Sugar" 210.73439 -464.97562 0.0
+1117 "icing" 42.56825 -480.87442 0.0
+1118 "chocolate curls" -196.66847 -328.85352 0.0
+1119 "unbaked pie crusts" -35.44637 -263.34714 0.0
+1120 "croutons" 249.7975 233.74341 0.0
+1121 "collard greens" -273.5271 321.79742 0.0
+1122 "Nilla Wafers" -498.7012 -138.4136 0.0
+1123 "gelatin" -381.68228 248.16888 0.0
+1124 "vanilla beans" 144.2524 -22.93241 0.0
+1125 "pork spareribs" -331.37494 -476.64468 0.0
+1126 "catfish fillets" 425.3296 -139.84705 0.0
+1127 "corn bread" -333.74704 -341.5144 0.0
+1128 "bacon slices" -427.77356 -61.603397 0.0
+1129 "fruit" -13.700977 178.75848 0.0
+1130 "teas" 291.45575 -159.46722 0.0
+1131 "mixed spice" 349.9532 68.64623 0.0
+1132 "brandy" 173.05043 367.60626 0.0
+1133 "French bread loaves" -175.166 105.049736 0.0
+1134 "chopped ham" 486.94867 298.29822 0.0
+1135 "key lime juice" -44.635365 -252.49638 0.0
+1136 "thai" -483.0327 -135.95142 0.0
+1137 "asian fish sauce" -97.9959 -373.4007 0.0
+1138 "thai noodles" 145.64888 -195.22717 0.0
+1139 "full fat coconut milk" -136.3442 -299.88544 0.0
+1140 "lemongrass" -123.0964 147.4151 0.0
+1141 "green curry paste" -140.6664 -169.0918 0.0
+1142 "white rice vinegar" -136.7505 237.27563 0.0
+1143 "lime leaves" 153.17397 -118.540535 0.0
+1144 "lime peel" -209.415 95.995415 0.0
+1145 "sweet basil" 221.13954 417.00134 0.0
+1146 "fat skimmed chicken broth" -334.18536 -119.723335 0.0
+1147 "roasted cashews" 178.26894 -237.4826 0.0
+1148 "serrano" -348.7225 71.8623 0.0
+1149 "salad oil" 12.082653 468.44275 0.0
+1150 "rice sticks" 94.81367 41.994137 0.0
+1151 "unsalted dry roast peanuts" -199.23354 205.72888 0.0
+1152 "toasted peanuts" -184.56459 -197.48642 0.0
+1153 "palm sugar" 334.0077 -266.99652 0.0
+1154 "green papaya" -478.04718 80.96453 0.0
+1155 "dried shrimp" 199.87093 -143.12341 0.0
+1156 "chicken legs" -34.46291 338.50366 0.0
+1157 "fresh basil leaves" 452.8546 241.01337 0.0
+1158 "curry paste" 57.085827 -12.882269 0.0
+1159 "chunky peanut butter" 436.2802 510.41644 0.0
+1160 "cilantro stems" -283.6098 -143.40555 0.0
+1161 "mixed mushrooms" 196.42183 344.42847 0.0
+1162 "broccolini" -337.51624 -88.11314 0.0
+1163 "thai green curry paste" 196.2928 155.28876 0.0
+1164 "asparagus" -296.81268 327.95782 0.0
+1165 "drummettes" -286.23706 508.6447 0.0
+1166 "chicken wings" 336.74677 291.886 0.0
+1167 "chile de arbol" 391.68903 -341.75742 0.0
+1168 "bamboo shoots" -360.40686 320.9604 0.0
+1169 "lime wedges" -103.002464 439.08978 0.0
+1170 "chiffonade" 481.6374 460.68524 0.0
+1171 "jasmine flowers" -458.83258 291.70276 0.0
+1172 "sticky rice" 84.144966 458.06256 0.0
+1173 "pandanus leaf" 16.31837 374.62384 0.0
+1174 "rice flour" -184.88188 -106.78422 0.0
+1175 "beef brisket" 109.11738 -436.7881 0.0
+1176 "pumpkin" -96.75286 296.36176 0.0
+1177 "tamarind juice" 368.9751 -370.2195 0.0
+*Edges
+1 2 13.0
+1 3 3.0
+1 4 1.0
+1 5 1.0
+1 6 1.0
+1 7 1.0
+1 8 1.0
+1 9 1.0
+1 10 8.0
+1 11 12.0
+1 12 1.0
+1 13 1.0
+1 14 3.0
+1 15 1.0
+1 16 1.0
+1 17 1.0
+1 18 1.0
+1 19 1.0
+1 20 1.0
+1 21 2.0
+1 22 1.0
+1 23 2.0
+1 24 1.0
+1 25 5.0
+1 26 1.0
+1 27 1.0
+1 28 7.0
+1 29 1.0
+1 30 1.0
+1 31 1.0
+1 32 1.0
+1 33 1.0
+1 34 1.0
+1 35 4.0
+1 36 4.0
+1 37 3.0
+1 38 5.0
+1 39 3.0
+1 40 3.0
+1 41 1.0
+1 42 1.0
+1 43 2.0
+1 44 1.0
+1 45 2.0
+1 46 1.0
+1 47 1.0
+1 48 1.0
+1 49 2.0
+1 50 1.0
+1 51 3.0
+1 52 1.0
+1 53 1.0
+1 54 1.0
+1 55 1.0
+1 56 3.0
+1 57 1.0
+1 58 4.0
+1 59 1.0
+1 60 1.0
+1 61 1.0
+1 62 4.0
+1 63 1.0
+1 64 2.0
+1 65 2.0
+1 66 3.0
+1 67 4.0
+1 68 1.0
+1 69 1.0
+1 70 2.0
+1 71 2.0
+1 72 1.0
+1 73 1.0
+1 74 2.0
+1 75 1.0
+1 76 1.0
+1 77 1.0
+1 78 2.0
+1 79 1.0
+1 80 1.0
+1 81 1.0
+1 82 1.0
+1 83 1.0
+1 84 1.0
+1 85 2.0
+1 86 1.0
+1 87 1.0
+1 88 1.0
+1 89 2.0
+1 90 1.0
+1 91 4.0
+1 92 1.0
+1 93 1.0
+1 94 1.0
+1 95 2.0
+1 96 1.0
+1 97 1.0
+1 98 1.0
+1 99 1.0
+1 100 1.0
+1 101 1.0
+1 102 1.0
+1 103 1.0
+1 104 1.0
+1 105 1.0
+1 106 1.0
+1 107 1.0
+1 108 1.0
+1 109 1.0
+1 110 1.0
+1 111 1.0
+1 112 1.0
+1 113 1.0
+1 114 1.0
+1 115 1.0
+1 116 1.0
+1 117 1.0
+1 118 2.0
+1 119 1.0
+1 120 1.0
+1 121 2.0
+1 122 1.0
+1 123 1.0
+1 124 1.0
+1 125 1.0
+1 126 1.0
+1 127 1.0
+1 128 1.0
+1 129 1.0
+1 130 1.0
+1 131 1.0
+1 132 1.0
+133 2 4.0
+133 134 1.0
+133 23 1.0
+133 135 1.0
+133 58 3.0
+133 10 14.0
+133 49 7.0
+133 11 22.0
+133 136 1.0
+133 137 1.0
+133 22 5.0
+133 138 1.0
+133 139 2.0
+133 140 1.0
+133 141 1.0
+133 28 8.0
+133 142 1.0
+133 143 1.0
+133 144 3.0
+133 65 5.0
+133 145 1.0
+133 146 1.0
+133 12 1.0
+133 147 1.0
+133 19 2.0
+133 87 7.0
+133 148 1.0
+133 117 3.0
+133 54 1.0
+133 149 1.0
+133 150 1.0
+133 151 1.0
+133 152 1.0
+133 153 1.0
+133 154 1.0
+133 155 1.0
+133 156 1.0
+133 157 1.0
+133 16 5.0
+133 48 1.0
+133 37 1.0
+133 158 2.0
+133 129 1.0
+133 67 8.0
+133 159 4.0
+133 106 1.0
+133 160 2.0
+133 161 1.0
+133 162 1.0
+133 163 1.0
+133 63 2.0
+133 66 8.0
+133 164 1.0
+133 165 2.0
+133 166 1.0
+133 167 1.0
+133 168 1.0
+133 169 1.0
+133 170 3.0
+133 171 2.0
+133 3 2.0
+133 6 1.0
+133 172 1.0
+133 74 1.0
+133 173 2.0
+133 174 1.0
+133 175 1.0
+133 176 2.0
+133 177 2.0
+133 78 3.0
+133 178 1.0
+133 179 1.0
+133 180 2.0
+133 75 2.0
+133 181 1.0
+133 182 1.0
+133 183 2.0
+133 184 1.0
+133 185 1.0
+133 186 1.0
+133 187 1.0
+133 188 1.0
+133 189 3.0
+133 190 3.0
+133 191 2.0
+133 91 3.0
+133 84 1.0
+133 192 5.0
+133 193 1.0
+133 42 1.0
+133 194 1.0
+133 195 1.0
+133 196 1.0
+133 197 2.0
+133 5 3.0
+133 198 1.0
+133 199 1.0
+133 200 1.0
+133 201 1.0
+133 202 1.0
+133 79 1.0
+133 203 1.0
+133 204 1.0
+133 205 1.0
+133 206 2.0
+133 207 1.0
+133 208 1.0
+133 209 1.0
+133 210 1.0
+133 70 1.0
+133 114 3.0
+133 211 1.0
+133 212 1.0
+133 213 1.0
+133 4 1.0
+133 214 1.0
+133 215 1.0
+133 216 1.0
+133 217 1.0
+133 218 1.0
+133 85 1.0
+133 219 1.0
+133 220 1.0
+133 221 1.0
+133 222 1.0
+133 223 1.0
+133 224 1.0
+133 225 1.0
+133 20 1.0
+133 226 1.0
+133 227 1.0
+133 228 1.0
+133 229 1.0
+133 230 1.0
+133 231 1.0
+133 232 1.0
+133 233 1.0
+133 234 1.0
+133 235 1.0
+133 236 1.0
+133 237 1.0
+133 238 1.0
+133 239 1.0
+133 41 1.0
+133 108 1.0
+133 240 1.0
+133 241 1.0
+133 242 1.0
+243 11 21.0
+243 15 1.0
+243 146 1.0
+243 58 2.0
+243 160 1.0
+243 67 1.0
+243 244 1.0
+243 174 1.0
+243 245 1.0
+243 180 2.0
+243 246 1.0
+243 91 7.0
+243 247 1.0
+243 81 4.0
+243 248 2.0
+243 249 2.0
+243 250 8.0
+243 251 2.0
+243 252 2.0
+243 87 4.0
+243 253 1.0
+243 254 4.0
+243 255 6.0
+243 256 1.0
+243 257 1.0
+243 258 1.0
+243 148 1.0
+243 172 6.0
+243 259 2.0
+243 260 4.0
+243 261 5.0
+243 188 3.0
+243 262 7.0
+243 65 6.0
+243 263 2.0
+243 28 7.0
+243 264 6.0
+243 139 7.0
+243 265 3.0
+243 96 2.0
+243 228 8.0
+243 266 5.0
+243 267 2.0
+243 4 6.0
+243 84 1.0
+243 268 1.0
+243 5 3.0
+243 269 1.0
+243 41 1.0
+243 270 2.0
+243 271 2.0
+243 272 1.0
+243 273 1.0
+243 49 6.0
+243 35 6.0
+243 274 1.0
+243 275 1.0
+243 276 1.0
+243 277 4.0
+243 278 1.0
+243 216 3.0
+243 279 1.0
+243 280 1.0
+243 281 2.0
+243 282 1.0
+243 283 5.0
+243 3 2.0
+243 197 4.0
+243 75 2.0
+243 284 1.0
+243 45 3.0
+243 38 9.0
+243 285 1.0
+243 286 1.0
+243 10 7.0
+243 2 5.0
+243 287 3.0
+243 288 1.0
+243 202 2.0
+243 289 1.0
+243 135 1.0
+243 290 1.0
+243 208 2.0
+243 291 1.0
+243 292 1.0
+243 293 1.0
+243 40 1.0
+243 294 1.0
+243 82 2.0
+243 240 2.0
+243 165 3.0
+243 295 1.0
+243 36 1.0
+243 296 1.0
+243 297 2.0
+243 298 1.0
+243 299 1.0
+243 300 1.0
+243 301 1.0
+243 302 1.0
+243 303 2.0
+243 116 1.0
+243 99 1.0
+243 304 2.0
+243 305 2.0
+243 306 1.0
+243 112 3.0
+243 307 1.0
+243 308 1.0
+243 206 1.0
+243 309 1.0
+243 167 1.0
+243 310 2.0
+243 144 1.0
+243 74 3.0
+243 311 1.0
+243 312 1.0
+243 313 1.0
+243 314 1.0
+243 315 1.0
+243 316 1.0
+243 317 1.0
+243 71 1.0
+243 318 1.0
+243 319 1.0
+243 52 1.0
+243 53 1.0
+243 320 1.0
+243 321 1.0
+243 322 1.0
+243 323 1.0
+243 324 1.0
+243 325 1.0
+243 326 1.0
+243 327 1.0
+243 328 1.0
+243 329 1.0
+243 330 1.0
+243 331 1.0
+243 332 1.0
+243 333 1.0
+243 334 1.0
+243 335 1.0
+243 336 1.0
+337 2 6.0
+337 338 1.0
+337 339 12.0
+337 340 1.0
+337 341 2.0
+337 342 1.0
+337 343 1.0
+337 344 5.0
+337 172 6.0
+337 81 4.0
+337 345 5.0
+337 346 2.0
+337 65 6.0
+337 32 2.0
+337 311 1.0
+337 347 2.0
+337 348 1.0
+337 11 19.0
+337 349 4.0
+337 350 2.0
+337 26 1.0
+337 351 1.0
+337 258 2.0
+337 74 3.0
+337 183 1.0
+337 352 1.0
+337 353 1.0
+337 354 1.0
+337 287 2.0
+337 355 2.0
+337 356 1.0
+337 6 2.0
+337 10 10.0
+337 357 10.0
+337 58 6.0
+337 358 1.0
+337 286 1.0
+337 359 1.0
+337 360 1.0
+337 361 1.0
+337 362 1.0
+337 363 1.0
+337 91 3.0
+337 364 1.0
+337 308 1.0
+337 365 6.0
+337 28 6.0
+337 366 1.0
+337 367 1.0
+337 71 3.0
+337 38 9.0
+337 368 1.0
+337 369 3.0
+337 370 3.0
+337 237 1.0
+337 240 3.0
+337 371 3.0
+337 19 2.0
+337 372 1.0
+337 373 1.0
+337 374 1.0
+337 193 2.0
+337 180 4.0
+337 375 1.0
+337 87 3.0
+337 234 1.0
+337 376 1.0
+337 377 2.0
+337 378 1.0
+337 75 2.0
+337 379 3.0
+337 380 1.0
+337 332 1.0
+337 381 1.0
+337 382 1.0
+337 78 5.0
+337 383 1.0
+337 384 1.0
+337 385 3.0
+337 86 3.0
+337 200 3.0
+337 386 1.0
+337 387 1.0
+337 22 1.0
+337 388 1.0
+337 389 2.0
+337 23 1.0
+337 146 1.0
+337 118 2.0
+337 390 1.0
+337 284 1.0
+337 391 1.0
+337 255 1.0
+337 392 3.0
+337 67 3.0
+337 393 1.0
+337 394 1.0
+337 395 1.0
+337 83 1.0
+337 312 1.0
+337 52 1.0
+337 396 1.0
+337 397 1.0
+337 283 1.0
+337 398 1.0
+337 399 1.0
+337 3 2.0
+337 63 1.0
+337 400 1.0
+337 401 1.0
+337 210 1.0
+337 402 1.0
+337 403 1.0
+337 54 3.0
+337 404 1.0
+337 230 1.0
+337 262 1.0
+337 405 1.0
+337 406 1.0
+337 407 1.0
+337 408 1.0
+337 165 1.0
+337 409 1.0
+337 410 1.0
+337 411 1.0
+337 99 1.0
+337 412 1.0
+337 413 2.0
+337 414 1.0
+337 415 2.0
+337 148 1.0
+337 416 1.0
+337 285 1.0
+337 417 1.0
+337 418 1.0
+337 113 1.0
+337 419 1.0
+337 420 1.0
+337 421 1.0
+337 422 1.0
+337 423 1.0
+337 44 1.0
+337 424 1.0
+337 425 1.0
+337 426 1.0
+337 427 1.0
+337 116 1.0
+337 428 1.0
+337 429 1.0
+337 430 1.0
+337 12 1.0
+337 216 1.0
+337 431 1.0
+337 248 2.0
+337 228 1.0
+337 432 1.0
+337 299 2.0
+337 433 1.0
+337 304 1.0
+337 434 1.0
+337 435 1.0
+337 174 1.0
+436 11 21.0
+436 339 8.0
+436 38 9.0
+436 419 4.0
+436 32 1.0
+436 400 3.0
+436 143 2.0
+436 35 3.0
+436 2 4.0
+436 14 1.0
+436 437 1.0
+436 58 4.0
+436 438 1.0
+436 439 1.0
+436 324 2.0
+436 10 19.0
+436 440 3.0
+436 284 1.0
+436 441 1.0
+436 192 2.0
+436 442 1.0
+436 188 2.0
+436 157 1.0
+436 78 10.0
+436 443 1.0
+436 91 9.0
+436 364 1.0
+436 116 2.0
+436 12 1.0
+436 118 1.0
+436 444 2.0
+436 399 1.0
+436 445 1.0
+436 446 1.0
+436 172 2.0
+436 392 1.0
+436 357 2.0
+436 273 1.0
+436 86 4.0
+436 447 1.0
+436 28 9.0
+436 54 1.0
+436 278 1.0
+436 448 1.0
+436 449 1.0
+436 450 1.0
+436 21 2.0
+436 5 3.0
+436 3 2.0
+436 451 1.0
+436 256 1.0
+436 452 1.0
+436 248 3.0
+436 453 1.0
+436 262 2.0
+436 139 1.0
+436 283 1.0
+436 74 9.0
+436 454 1.0
+436 328 1.0
+436 455 1.0
+436 456 1.0
+436 457 1.0
+436 458 1.0
+436 459 1.0
+436 460 2.0
+436 31 1.0
+436 393 1.0
+436 390 2.0
+436 461 2.0
+436 462 1.0
+436 4 2.0
+436 463 1.0
+436 464 4.0
+436 67 6.0
+436 465 1.0
+436 75 2.0
+436 162 1.0
+436 49 2.0
+436 466 2.0
+436 299 2.0
+436 467 1.0
+436 468 3.0
+436 469 1.0
+436 29 1.0
+436 304 2.0
+436 26 3.0
+436 470 1.0
+436 16 1.0
+436 180 2.0
+436 471 1.0
+436 472 1.0
+436 174 1.0
+436 368 1.0
+436 473 1.0
+436 293 2.0
+436 85 3.0
+436 87 3.0
+436 191 1.0
+436 474 1.0
+436 22 2.0
+436 475 1.0
+436 117 1.0
+436 165 2.0
+436 348 1.0
+436 19 1.0
+436 476 1.0
+436 164 1.0
+436 244 1.0
+436 477 1.0
+436 478 1.0
+436 418 2.0
+436 96 1.0
+436 65 1.0
+436 479 1.0
+436 480 1.0
+436 317 1.0
+436 208 1.0
+436 281 1.0
+436 481 1.0
+436 405 1.0
+436 140 1.0
+436 71 1.0
+436 207 1.0
+436 168 1.0
+436 370 2.0
+436 482 1.0
+436 483 1.0
+436 39 1.0
+436 484 1.0
+436 485 1.0
+436 486 1.0
+436 487 1.0
+436 51 1.0
+436 488 1.0
+436 489 1.0
+436 490 1.0
+436 491 1.0
+436 255 1.0
+436 492 1.0
+436 81 1.0
+436 428 1.0
+436 329 1.0
+436 384 1.0
+493 11 23.0
+493 304 1.0
+493 494 1.0
+493 495 1.0
+493 496 1.0
+493 70 2.0
+493 165 5.0
+493 497 1.0
+493 498 1.0
+493 119 1.0
+493 499 2.0
+493 500 1.0
+493 501 1.0
+493 502 1.0
+493 58 4.0
+493 490 1.0
+493 503 1.0
+493 504 1.0
+493 505 1.0
+493 506 1.0
+493 41 3.0
+493 507 1.0
+493 144 3.0
+493 164 2.0
+493 508 1.0
+493 20 2.0
+493 63 2.0
+493 3 4.0
+493 4 1.0
+493 509 1.0
+493 387 2.0
+493 67 1.0
+493 10 8.0
+493 510 1.0
+493 335 1.0
+493 266 1.0
+493 488 1.0
+493 264 1.0
+493 35 1.0
+493 202 2.0
+493 78 1.0
+493 28 4.0
+493 511 2.0
+493 512 1.0
+493 79 2.0
+493 513 2.0
+493 514 2.0
+493 515 1.0
+493 255 2.0
+493 516 1.0
+493 517 1.0
+493 518 1.0
+493 519 1.0
+493 520 1.0
+493 521 1.0
+493 522 1.0
+493 523 1.0
+493 524 4.0
+493 525 2.0
+493 526 1.0
+493 527 1.0
+493 528 1.0
+493 65 2.0
+493 529 5.0
+493 22 9.0
+493 23 1.0
+493 87 5.0
+493 530 1.0
+493 49 3.0
+493 188 4.0
+493 531 1.0
+493 532 1.0
+493 533 1.0
+493 534 1.0
+493 535 1.0
+493 536 1.0
+493 2 2.0
+493 537 1.0
+493 229 2.0
+493 290 1.0
+493 538 1.0
+493 539 1.0
+493 540 1.0
+493 541 2.0
+493 542 1.0
+493 172 3.0
+493 543 2.0
+493 544 1.0
+493 545 1.0
+493 234 1.0
+493 332 1.0
+493 402 1.0
+493 189 1.0
+493 123 1.0
+493 361 1.0
+493 546 1.0
+493 308 1.0
+493 547 2.0
+493 148 1.0
+493 548 1.0
+493 549 1.0
+493 19 2.0
+493 125 2.0
+493 110 1.0
+493 550 1.0
+493 273 1.0
+493 263 1.0
+493 551 1.0
+493 552 1.0
+493 276 2.0
+493 553 1.0
+493 74 2.0
+493 286 1.0
+493 412 1.0
+493 554 1.0
+493 42 1.0
+493 555 1.0
+493 556 1.0
+493 557 1.0
+493 418 1.0
+493 476 1.0
+493 200 1.0
+493 558 2.0
+493 139 1.0
+493 323 1.0
+493 559 1.0
+493 560 1.0
+493 183 1.0
+493 561 1.0
+493 420 2.0
+493 562 1.0
+493 563 1.0
+493 115 1.0
+493 564 1.0
+493 565 1.0
+493 197 1.0
+493 566 1.0
+493 567 1.0
+493 568 1.0
+493 569 1.0
+493 99 1.0
+493 38 1.0
+493 248 1.0
+493 570 1.0
+493 571 1.0
+493 196 1.0
+493 91 1.0
+493 168 1.0
+493 16 1.0
+493 373 1.0
+493 572 1.0
+573 11 15.0
+573 156 1.0
+573 574 1.0
+573 10 11.0
+573 204 2.0
+573 152 1.0
+573 575 1.0
+573 576 1.0
+573 273 1.0
+573 561 1.0
+573 555 5.0
+573 577 2.0
+573 578 1.0
+573 579 1.0
+573 28 4.0
+573 2 10.0
+573 542 5.0
+573 580 1.0
+573 41 5.0
+573 218 1.0
+573 22 2.0
+573 581 2.0
+573 71 1.0
+573 67 3.0
+573 66 1.0
+573 166 1.0
+573 582 1.0
+573 173 1.0
+573 74 3.0
+573 583 3.0
+573 266 1.0
+573 228 1.0
+573 42 3.0
+573 584 1.0
+573 460 1.0
+573 585 2.0
+573 38 7.0
+573 586 6.0
+573 333 2.0
+573 91 2.0
+573 587 2.0
+573 49 3.0
+573 21 1.0
+573 23 2.0
+573 357 1.0
+573 588 2.0
+573 20 2.0
+573 589 1.0
+573 99 5.0
+573 3 9.0
+573 108 2.0
+573 546 1.0
+573 216 1.0
+573 590 2.0
+573 284 1.0
+573 591 1.0
+573 592 1.0
+573 593 2.0
+573 594 1.0
+573 19 2.0
+573 58 3.0
+573 85 1.0
+573 87 1.0
+573 595 1.0
+573 596 1.0
+573 597 1.0
+573 598 1.0
+573 599 1.0
+573 600 1.0
+573 560 1.0
+573 63 2.0
+573 197 4.0
+573 165 5.0
+573 115 2.0
+573 601 1.0
+573 602 1.0
+573 136 2.0
+573 603 1.0
+573 604 1.0
+573 4 1.0
+573 12 1.0
+573 477 1.0
+573 146 1.0
+573 605 1.0
+573 606 1.0
+573 524 1.0
+573 607 1.0
+573 608 1.0
+573 609 1.0
+573 610 1.0
+573 611 3.0
+573 210 1.0
+573 118 2.0
+573 209 4.0
+573 612 1.0
+573 613 1.0
+573 614 3.0
+573 615 2.0
+573 496 1.0
+573 616 3.0
+573 345 1.0
+573 617 1.0
+573 618 1.0
+573 619 2.0
+573 620 1.0
+573 420 3.0
+573 283 4.0
+573 621 1.0
+573 622 3.0
+573 623 1.0
+573 484 1.0
+573 624 1.0
+573 257 1.0
+573 625 1.0
+573 77 1.0
+573 83 1.0
+573 347 1.0
+573 626 3.0
+573 172 3.0
+573 627 1.0
+573 628 1.0
+573 629 1.0
+573 630 1.0
+573 57 2.0
+573 5 1.0
+573 631 1.0
+573 632 1.0
+573 562 1.0
+573 633 1.0
+573 634 1.0
+573 190 1.0
+573 79 1.0
+573 202 1.0
+573 635 1.0
+573 306 2.0
+573 636 1.0
+573 637 1.0
+573 638 1.0
+573 639 1.0
+573 640 2.0
+573 504 1.0
+573 641 1.0
+573 642 2.0
+573 521 1.0
+573 171 1.0
+573 304 1.0
+573 43 1.0
+573 318 1.0
+573 52 1.0
+573 643 1.0
+573 644 1.0
+573 645 1.0
+573 646 1.0
+573 116 1.0
+573 647 1.0
+573 369 1.0
+573 648 1.0
+573 649 1.0
+573 276 1.0
+650 11 7.0
+650 248 2.0
+650 651 1.0
+650 617 1.0
+650 400 1.0
+650 652 1.0
+650 365 3.0
+650 653 2.0
+650 28 14.0
+650 3 2.0
+650 642 3.0
+650 75 1.0
+650 577 7.0
+650 654 1.0
+650 655 9.0
+650 416 1.0
+650 656 9.0
+650 2 18.0
+650 189 1.0
+650 657 8.0
+650 658 1.0
+650 659 1.0
+650 392 6.0
+650 172 2.0
+650 209 8.0
+650 660 1.0
+650 661 1.0
+650 10 19.0
+650 169 4.0
+650 344 1.0
+650 420 3.0
+650 180 6.0
+650 662 1.0
+650 63 2.0
+650 663 4.0
+650 355 1.0
+650 664 1.0
+650 665 1.0
+650 666 3.0
+650 91 9.0
+650 207 2.0
+650 667 2.0
+650 253 2.0
+650 581 4.0
+650 668 1.0
+650 188 2.0
+650 669 2.0
+650 371 3.0
+650 670 3.0
+650 269 5.0
+650 671 3.0
+650 672 2.0
+650 38 6.0
+650 66 1.0
+650 67 3.0
+650 673 1.0
+650 16 3.0
+650 418 1.0
+650 468 1.0
+650 674 4.0
+650 99 3.0
+650 675 1.0
+650 74 3.0
+650 676 2.0
+650 677 1.0
+650 678 4.0
+650 437 1.0
+650 461 1.0
+650 679 3.0
+650 561 2.0
+650 287 1.0
+650 680 3.0
+650 681 1.0
+650 14 2.0
+650 273 1.0
+650 402 2.0
+650 682 1.0
+650 78 2.0
+650 683 1.0
+650 85 1.0
+650 684 1.0
+650 333 1.0
+650 56 2.0
+650 80 3.0
+650 685 2.0
+650 686 1.0
+650 174 2.0
+650 197 3.0
+650 585 1.0
+650 687 1.0
+650 688 1.0
+650 82 1.0
+650 689 1.0
+650 35 1.0
+650 342 1.0
+650 266 2.0
+650 83 4.0
+650 690 1.0
+650 341 1.0
+650 508 2.0
+650 691 1.0
+650 433 2.0
+650 234 1.0
+650 692 1.0
+650 693 1.0
+650 479 2.0
+650 694 2.0
+650 547 2.0
+650 695 1.0
+650 165 2.0
+650 144 2.0
+650 17 2.0
+650 696 1.0
+650 697 1.0
+650 698 4.0
+650 110 2.0
+650 699 1.0
+650 700 1.0
+650 701 2.0
+650 702 1.0
+650 572 1.0
+650 87 1.0
+650 49 2.0
+650 19 1.0
+650 558 1.0
+650 22 2.0
+650 703 1.0
+650 221 1.0
+650 704 1.0
+650 705 1.0
+650 58 3.0
+650 706 1.0
+650 707 1.0
+650 32 1.0
+650 258 1.0
+650 708 1.0
+650 579 1.0
+650 709 1.0
+650 710 1.0
+650 21 1.0
+650 619 1.0
+650 65 3.0
+650 57 1.0
+650 369 1.0
+650 265 1.0
+650 711 1.0
+650 712 1.0
+650 713 1.0
+650 714 3.0
+650 590 1.0
+650 715 1.0
+650 7 1.0
+650 716 1.0
+650 503 2.0
+650 393 1.0
+650 552 1.0
+650 717 1.0
+650 645 1.0
+650 281 2.0
+650 5 1.0
+650 718 1.0
+650 647 1.0
+650 8 1.0
+650 152 3.0
+650 719 1.0
+650 231 2.0
+650 720 1.0
+650 721 1.0
+650 722 1.0
+650 162 1.0
+650 723 1.0
+650 724 1.0
+650 725 1.0
+650 726 1.0
+650 727 1.0
+650 728 1.0
+650 183 1.0
+650 729 1.0
+650 730 1.0
+650 293 1.0
+650 583 1.0
+650 731 1.0
+650 200 1.0
+650 732 1.0
+650 156 1.0
+650 733 1.0
+650 734 1.0
+650 509 1.0
+650 599 1.0
+650 735 1.0
+650 736 1.0
+650 737 1.0
+650 632 1.0
+650 738 1.0
+650 739 1.0
+650 740 1.0
+650 524 1.0
+650 741 1.0
+650 286 1.0
+650 742 1.0
+743 11 15.0
+743 633 1.0
+743 183 1.0
+743 67 2.0
+743 189 8.0
+743 10 16.0
+743 165 5.0
+743 65 3.0
+743 744 1.0
+743 332 3.0
+743 473 2.0
+743 745 1.0
+743 746 2.0
+743 747 1.0
+743 290 1.0
+743 75 1.0
+743 511 2.0
+743 78 4.0
+743 74 4.0
+743 66 6.0
+743 324 3.0
+743 49 12.0
+743 2 10.0
+743 748 1.0
+743 749 1.0
+743 750 1.0
+743 58 5.0
+743 6 1.0
+743 751 1.0
+743 28 4.0
+743 234 2.0
+743 35 3.0
+743 752 2.0
+743 22 3.0
+743 197 1.0
+743 509 4.0
+743 81 2.0
+743 19 2.0
+743 87 5.0
+743 753 1.0
+743 23 1.0
+743 156 1.0
+743 754 1.0
+743 85 2.0
+743 221 3.0
+743 152 1.0
+743 755 1.0
+743 54 1.0
+743 16 3.0
+743 756 1.0
+743 757 1.0
+743 758 1.0
+743 461 1.0
+743 759 1.0
+743 760 1.0
+743 761 1.0
+743 231 1.0
+743 244 2.0
+743 530 1.0
+743 762 1.0
+743 763 1.0
+743 764 1.0
+743 373 1.0
+743 400 1.0
+743 42 1.0
+743 765 1.0
+743 304 2.0
+743 265 1.0
+743 210 2.0
+743 766 2.0
+743 50 1.0
+743 767 1.0
+743 585 4.0
+743 38 1.0
+743 768 1.0
+743 402 1.0
+743 114 1.0
+743 546 2.0
+743 187 1.0
+743 3 3.0
+743 769 1.0
+743 79 2.0
+743 770 1.0
+743 188 1.0
+743 273 2.0
+743 771 1.0
+743 82 1.0
+743 772 1.0
+743 490 1.0
+743 773 1.0
+743 774 1.0
+743 172 1.0
+743 115 1.0
+743 775 1.0
+743 184 1.0
+743 264 1.0
+743 776 1.0
+743 411 1.0
+743 777 1.0
+743 778 1.0
+743 176 1.0
+743 779 1.0
+743 5 1.0
+743 545 1.0
+743 91 1.0
+743 780 1.0
+743 781 1.0
+743 216 1.0
+743 139 1.0
+743 177 1.0
+743 202 1.0
+743 107 1.0
+743 782 1.0
+783 11 19.0
+783 58 2.0
+783 20 1.0
+783 357 1.0
+783 784 1.0
+783 10 10.0
+783 785 1.0
+783 786 1.0
+783 706 1.0
+783 499 1.0
+783 787 1.0
+783 788 1.0
+783 5 5.0
+783 342 1.0
+783 79 3.0
+783 561 5.0
+783 140 1.0
+783 183 2.0
+783 172 3.0
+783 3 11.0
+783 789 1.0
+783 790 1.0
+783 775 1.0
+783 791 1.0
+783 792 1.0
+783 165 6.0
+783 71 3.0
+783 793 2.0
+783 82 2.0
+783 4 1.0
+783 509 1.0
+783 794 1.0
+783 41 2.0
+783 19 1.0
+783 42 1.0
+783 795 1.0
+783 712 1.0
+783 262 1.0
+783 796 2.0
+783 797 2.0
+783 798 1.0
+783 799 1.0
+783 513 1.0
+783 38 8.0
+783 800 1.0
+783 801 1.0
+783 802 1.0
+783 22 1.0
+783 2 6.0
+783 504 3.0
+783 803 1.0
+783 804 1.0
+783 402 1.0
+783 805 2.0
+783 711 1.0
+783 806 2.0
+783 552 1.0
+783 281 1.0
+783 529 1.0
+783 807 1.0
+783 306 2.0
+783 808 1.0
+783 192 1.0
+783 809 1.0
+783 269 1.0
+783 200 1.0
+783 248 1.0
+783 35 2.0
+783 166 2.0
+783 28 6.0
+783 293 3.0
+783 810 2.0
+783 190 1.0
+783 475 2.0
+783 273 2.0
+783 811 1.0
+783 812 1.0
+783 813 1.0
+783 814 1.0
+783 209 2.0
+783 583 1.0
+783 777 1.0
+783 815 1.0
+783 54 1.0
+783 74 4.0
+783 816 1.0
+783 817 1.0
+783 818 1.0
+783 819 1.0
+783 514 2.0
+783 820 2.0
+783 286 1.0
+783 571 1.0
+783 821 1.0
+783 87 3.0
+783 304 1.0
+783 822 1.0
+783 49 3.0
+783 496 1.0
+783 823 1.0
+783 420 1.0
+783 824 1.0
+783 825 2.0
+783 826 1.0
+783 191 1.0
+783 91 5.0
+783 316 1.0
+783 827 1.0
+783 828 1.0
+783 829 1.0
+783 830 1.0
+783 284 1.0
+783 555 2.0
+783 831 1.0
+783 832 1.0
+783 81 1.0
+783 85 1.0
+783 21 1.0
+783 15 1.0
+783 245 1.0
+783 65 2.0
+783 156 1.0
+783 833 1.0
+783 834 1.0
+783 835 2.0
+783 836 1.0
+783 837 1.0
+783 78 1.0
+783 264 1.0
+783 838 1.0
+783 188 2.0
+783 283 1.0
+783 839 4.0
+783 368 1.0
+783 840 1.0
+783 721 1.0
+783 841 1.0
+783 842 1.0
+783 66 1.0
+783 843 1.0
+783 844 1.0
+783 845 1.0
+783 846 1.0
+783 164 1.0
+783 847 1.0
+783 274 1.0
+783 333 1.0
+783 848 1.0
+783 197 2.0
+783 266 1.0
+783 849 1.0
+783 559 1.0
+783 646 1.0
+783 550 1.0
+783 850 1.0
+783 546 2.0
+783 851 1.0
+783 852 1.0
+783 853 1.0
+783 332 1.0
+783 854 1.0
+783 400 1.0
+783 855 1.0
+783 524 1.0
+783 704 1.0
+783 856 1.0
+783 857 1.0
+783 858 1.0
+783 859 1.0
+783 860 1.0
+783 189 1.0
+783 96 1.0
+783 278 1.0
+783 229 1.0
+783 861 1.0
+862 11 18.0
+862 234 2.0
+862 3 3.0
+862 10 16.0
+862 172 5.0
+862 91 9.0
+862 81 4.0
+862 863 1.0
+862 656 1.0
+862 864 1.0
+862 165 4.0
+862 87 4.0
+862 28 13.0
+862 680 3.0
+862 865 2.0
+862 222 1.0
+862 577 1.0
+862 2 7.0
+862 579 1.0
+862 581 2.0
+862 317 1.0
+862 866 7.0
+862 58 4.0
+862 867 3.0
+862 868 1.0
+862 869 1.0
+862 870 1.0
+862 871 1.0
+862 418 1.0
+862 872 2.0
+862 118 1.0
+862 369 4.0
+862 14 5.0
+862 210 3.0
+862 873 2.0
+862 874 1.0
+862 85 2.0
+862 875 1.0
+862 120 1.0
+862 20 1.0
+862 876 1.0
+862 67 4.0
+862 49 2.0
+862 54 3.0
+862 877 1.0
+862 21 1.0
+862 878 1.0
+862 56 2.0
+862 60 1.0
+862 711 4.0
+862 539 1.0
+862 127 1.0
+862 561 1.0
+862 736 1.0
+862 879 1.0
+862 880 1.0
+862 881 1.0
+862 261 1.0
+862 882 1.0
+862 883 1.0
+862 884 1.0
+862 679 1.0
+862 185 3.0
+862 74 6.0
+862 22 2.0
+862 885 1.0
+862 197 2.0
+862 373 1.0
+862 65 5.0
+862 886 1.0
+862 248 1.0
+862 16 2.0
+862 349 5.0
+862 273 1.0
+862 887 1.0
+862 78 2.0
+862 189 2.0
+862 5 5.0
+862 93 1.0
+862 156 3.0
+862 888 1.0
+862 339 5.0
+862 208 3.0
+862 889 3.0
+862 113 2.0
+862 416 1.0
+862 637 1.0
+862 890 1.0
+862 366 1.0
+862 891 1.0
+862 86 3.0
+862 892 1.0
+862 893 1.0
+862 259 1.0
+862 202 1.0
+862 316 1.0
+862 402 1.0
+862 894 1.0
+862 895 1.0
+862 896 1.0
+862 224 1.0
+862 38 2.0
+862 139 4.0
+862 897 3.0
+862 898 1.0
+862 417 1.0
+862 152 4.0
+862 419 2.0
+862 411 2.0
+862 530 3.0
+862 281 2.0
+862 899 1.0
+862 180 2.0
+862 66 1.0
+862 19 1.0
+862 255 1.0
+862 44 1.0
+862 206 1.0
+862 365 1.0
+862 503 1.0
+862 109 1.0
+862 900 1.0
+862 99 1.0
+862 143 1.0
+862 110 1.0
+862 400 2.0
+862 153 1.0
+862 671 1.0
+862 901 1.0
+862 902 2.0
+862 173 1.0
+862 295 1.0
+862 903 1.0
+862 904 1.0
+862 410 1.0
+862 555 1.0
+862 905 1.0
+862 533 1.0
+862 906 2.0
+862 12 1.0
+862 907 1.0
+862 228 2.0
+862 162 2.0
+862 26 1.0
+862 908 2.0
+862 240 1.0
+862 284 1.0
+862 393 1.0
+862 909 1.0
+862 392 1.0
+862 731 1.0
+862 6 1.0
+862 262 1.0
+862 390 1.0
+862 71 1.0
+862 299 1.0
+862 475 1.0
+862 164 1.0
+910 11 16.0
+910 911 8.0
+910 314 1.0
+910 339 11.0
+910 180 1.0
+910 392 7.0
+910 74 2.0
+910 357 1.0
+910 2 9.0
+910 415 2.0
+910 258 1.0
+910 87 4.0
+910 912 2.0
+910 10 9.0
+910 913 1.0
+910 914 3.0
+910 412 1.0
+910 915 1.0
+910 916 1.0
+910 356 2.0
+910 917 1.0
+910 918 1.0
+910 919 2.0
+910 491 1.0
+910 920 1.0
+910 91 9.0
+910 921 1.0
+910 922 1.0
+910 32 1.0
+910 923 1.0
+910 475 1.0
+910 524 1.0
+910 255 1.0
+910 240 1.0
+910 81 3.0
+910 21 2.0
+910 924 1.0
+910 65 2.0
+910 338 2.0
+910 365 3.0
+910 265 1.0
+910 925 1.0
+910 769 1.0
+910 926 1.0
+910 38 3.0
+910 28 4.0
+910 927 1.0
+910 3 1.0
+910 928 1.0
+910 345 3.0
+910 929 1.0
+910 58 5.0
+910 930 1.0
+910 423 3.0
+910 931 1.0
+910 932 1.0
+910 8 1.0
+910 430 1.0
+910 44 1.0
+910 402 1.0
+910 99 2.0
+910 933 1.0
+910 934 1.0
+910 420 2.0
+910 935 1.0
+910 19 3.0
+910 231 1.0
+910 908 1.0
+910 671 1.0
+910 165 4.0
+910 936 1.0
+910 148 1.0
+910 371 1.0
+910 520 1.0
+910 937 1.0
+910 938 1.0
+910 368 1.0
+910 939 1.0
+910 78 3.0
+910 940 1.0
+910 941 1.0
+910 464 1.0
+910 942 1.0
+910 943 1.0
+910 944 1.0
+910 350 1.0
+910 945 1.0
+910 946 1.0
+910 85 1.0
+910 947 1.0
+910 67 1.0
+910 948 1.0
+910 949 2.0
+910 115 1.0
+910 286 1.0
+910 834 1.0
+910 16 1.0
+910 950 1.0
+910 951 1.0
+910 551 1.0
+910 159 1.0
+910 56 1.0
+910 604 1.0
+910 690 1.0
+910 952 1.0
+910 692 1.0
+910 953 1.0
+910 299 1.0
+910 118 1.0
+910 469 1.0
+910 954 1.0
+910 955 1.0
+910 956 1.0
+910 248 2.0
+910 113 1.0
+910 217 1.0
+910 510 1.0
+910 503 1.0
+910 577 1.0
+910 957 1.0
+910 663 1.0
+910 958 1.0
+910 959 1.0
+910 393 1.0
+910 715 1.0
+910 5 3.0
+910 960 1.0
+910 961 1.0
+910 962 1.0
+910 189 1.0
+910 963 1.0
+910 183 1.0
+910 717 1.0
+910 172 1.0
+910 190 1.0
+910 964 1.0
+910 965 1.0
+910 40 1.0
+910 966 1.0
+910 185 1.0
+910 967 1.0
+910 968 1.0
+910 969 1.0
+910 417 1.0
+910 241 1.0
+910 374 1.0
+910 970 1.0
+910 637 2.0
+910 802 1.0
+910 197 1.0
+910 971 1.0
+910 972 1.0
+910 237 1.0
+910 973 1.0
+910 348 1.0
+910 974 1.0
+910 975 1.0
+910 976 1.0
+977 11 19.0
+977 637 4.0
+977 415 8.0
+977 172 4.0
+977 339 12.0
+977 81 8.0
+977 58 6.0
+977 583 3.0
+977 978 6.0
+977 67 6.0
+977 3 1.0
+977 344 12.0
+977 118 1.0
+977 38 10.0
+977 979 6.0
+977 980 1.0
+977 981 1.0
+977 2 6.0
+977 982 1.0
+977 983 2.0
+977 984 1.0
+977 985 2.0
+977 681 1.0
+977 669 1.0
+977 65 4.0
+977 82 1.0
+977 986 1.0
+977 987 1.0
+977 988 1.0
+977 86 2.0
+977 989 1.0
+977 10 4.0
+977 990 1.0
+977 390 1.0
+977 991 1.0
+977 711 1.0
+977 54 3.0
+977 469 1.0
+977 426 1.0
+977 197 1.0
+977 348 1.0
+977 346 1.0
+977 403 4.0
+977 921 1.0
+977 165 2.0
+977 349 6.0
+977 353 2.0
+977 106 1.0
+977 992 1.0
+977 423 1.0
+977 248 1.0
+977 338 4.0
+977 993 1.0
+977 6 1.0
+977 994 2.0
+977 356 1.0
+977 28 4.0
+977 995 2.0
+977 183 2.0
+977 26 1.0
+977 78 6.0
+977 585 1.0
+977 996 1.0
+977 997 1.0
+977 255 1.0
+977 91 3.0
+977 935 1.0
+977 370 1.0
+977 513 1.0
+977 998 1.0
+977 999 1.0
+977 906 1.0
+977 706 2.0
+977 1000 1.0
+977 1001 1.0
+977 912 1.0
+977 410 1.0
+977 1002 1.0
+977 1003 1.0
+977 759 1.0
+977 1004 1.0
+977 21 1.0
+977 1005 1.0
+977 663 1.0
+977 70 1.0
+977 651 1.0
+977 1006 1.0
+977 413 1.0
+977 1007 1.0
+977 417 1.0
+977 1008 1.0
+977 1009 1.0
+977 1010 1.0
+977 1011 1.0
+977 174 2.0
+977 22 1.0
+977 231 1.0
+977 1012 1.0
+977 376 1.0
+977 378 1.0
+977 1013 1.0
+977 1014 1.0
+977 1015 1.0
+977 393 1.0
+977 1016 1.0
+977 1017 1.0
+977 1018 1.0
+977 19 1.0
+977 180 1.0
+977 1019 1.0
+977 1020 1.0
+977 87 1.0
+977 85 1.0
+977 234 1.0
+977 1021 1.0
+977 367 1.0
+977 674 1.0
+977 934 1.0
+977 286 1.0
+977 345 1.0
+977 614 1.0
+977 74 1.0
+977 1022 1.0
+977 179 1.0
+977 1023 1.0
+977 660 1.0
+977 392 1.0
+977 1024 1.0
+1025 11 16.0
+1025 183 1.0
+1025 82 3.0
+1025 293 1.0
+1025 1026 5.0
+1025 283 2.0
+1025 827 1.0
+1025 269 10.0
+1025 172 7.0
+1025 1027 1.0
+1025 10 9.0
+1025 40 3.0
+1025 81 5.0
+1025 732 1.0
+1025 566 5.0
+1025 1028 1.0
+1025 723 6.0
+1025 711 3.0
+1025 257 2.0
+1025 1029 1.0
+1025 1030 1.0
+1025 1031 1.0
+1025 1032 1.0
+1025 234 1.0
+1025 65 3.0
+1025 1033 2.0
+1025 1034 1.0
+1025 1035 1.0
+1025 83 4.0
+1025 44 4.0
+1025 492 2.0
+1025 1036 2.0
+1025 1037 4.0
+1025 1038 4.0
+1025 28 10.0
+1025 165 4.0
+1025 645 2.0
+1025 714 2.0
+1025 71 1.0
+1025 248 1.0
+1025 49 2.0
+1025 261 3.0
+1025 1039 1.0
+1025 19 1.0
+1025 1040 1.0
+1025 617 4.0
+1025 1041 2.0
+1025 1042 1.0
+1025 1043 2.0
+1025 693 4.0
+1025 58 2.0
+1025 373 1.0
+1025 1044 1.0
+1025 1045 1.0
+1025 281 1.0
+1025 1046 1.0
+1025 208 2.0
+1025 317 3.0
+1025 497 3.0
+1025 304 2.0
+1025 284 1.0
+1025 1047 3.0
+1025 1048 1.0
+1025 1049 1.0
+1025 266 2.0
+1025 262 1.0
+1025 2 9.0
+1025 583 1.0
+1025 99 2.0
+1025 209 4.0
+1025 577 7.0
+1025 1050 1.0
+1025 1051 1.0
+1025 1052 1.0
+1025 3 3.0
+1025 78 2.0
+1025 1053 1.0
+1025 681 1.0
+1025 189 1.0
+1025 1054 1.0
+1025 498 1.0
+1025 1055 2.0
+1025 937 1.0
+1025 671 1.0
+1025 1056 1.0
+1025 318 1.0
+1025 206 2.0
+1025 1057 1.0
+1025 1058 2.0
+1025 52 1.0
+1025 561 2.0
+1025 666 1.0
+1025 8 3.0
+1025 38 2.0
+1025 347 1.0
+1025 745 1.0
+1025 16 1.0
+1025 197 2.0
+1025 1059 1.0
+1025 1060 1.0
+1025 400 1.0
+1025 1061 1.0
+1025 663 2.0
+1025 1062 1.0
+1025 490 1.0
+1025 697 1.0
+1025 260 2.0
+1025 1063 1.0
+1025 420 1.0
+1025 1064 1.0
+1025 1065 2.0
+1025 1066 1.0
+1025 539 1.0
+1025 87 1.0
+1025 245 1.0
+1025 1067 1.0
+1025 1068 1.0
+1025 388 1.0
+1025 1069 1.0
+1025 1070 1.0
+1025 1071 1.0
+1025 306 1.0
+1025 1072 1.0
+1025 91 2.0
+1025 1073 1.0
+1025 351 1.0
+1025 754 1.0
+1025 419 1.0
+1025 12 1.0
+1025 4 1.0
+1025 1074 1.0
+1025 1075 1.0
+1025 67 1.0
+1025 1076 1.0
+1025 1077 1.0
+1025 475 1.0
+1025 1078 1.0
+1025 1079 1.0
+1025 579 1.0
+1025 1080 1.0
+1025 904 1.0
+1025 1081 1.0
+1025 589 2.0
+1025 80 1.0
+1025 1082 1.0
+1025 1083 1.0
+1025 728 1.0
+1025 56 2.0
+1025 1084 1.0
+1025 5 2.0
+1025 123 1.0
+1025 1085 1.0
+1025 1086 1.0
+1025 633 1.0
+1025 73 1.0
+1025 1087 1.0
+1025 1088 1.0
+1025 192 1.0
+1025 333 2.0
+1025 865 1.0
+1025 648 1.0
+1025 722 2.0
+1025 369 1.0
+1025 1089 1.0
+1025 286 1.0
+1025 1090 1.0
+1025 413 1.0
+1091 11 21.0
+1091 1092 1.0
+1091 1093 2.0
+1091 48 1.0
+1091 1094 1.0
+1091 50 1.0
+1091 67 4.0
+1091 22 4.0
+1091 477 2.0
+1091 58 7.0
+1091 16 1.0
+1091 1095 1.0
+1091 290 1.0
+1091 216 6.0
+1091 324 3.0
+1091 10 17.0
+1091 632 1.0
+1091 99 1.0
+1091 19 5.0
+1091 858 1.0
+1091 298 2.0
+1091 85 4.0
+1091 87 7.0
+1091 49 7.0
+1091 561 2.0
+1091 604 1.0
+1091 1096 1.0
+1091 342 3.0
+1091 78 2.0
+1091 492 1.0
+1091 1097 1.0
+1091 79 2.0
+1091 264 1.0
+1091 313 1.0
+1091 1098 1.0
+1091 1051 1.0
+1091 91 6.0
+1091 1099 1.0
+1091 401 2.0
+1091 1100 1.0
+1091 20 4.0
+1091 1101 1.0
+1091 231 2.0
+1091 21 3.0
+1091 152 4.0
+1091 66 6.0
+1091 334 1.0
+1091 1102 1.0
+1091 903 1.0
+1091 97 1.0
+1091 221 3.0
+1091 1103 1.0
+1091 524 1.0
+1091 148 1.0
+1091 144 3.0
+1091 617 2.0
+1091 475 1.0
+1091 283 1.0
+1091 1104 1.0
+1091 1105 1.0
+1091 183 1.0
+1091 1106 2.0
+1091 202 1.0
+1091 172 3.0
+1091 14 1.0
+1091 224 2.0
+1091 54 1.0
+1091 339 2.0
+1091 711 1.0
+1091 208 5.0
+1091 641 1.0
+1091 65 5.0
+1091 545 1.0
+1091 1107 1.0
+1091 146 2.0
+1091 1108 1.0
+1091 533 1.0
+1091 304 1.0
+1091 74 3.0
+1091 1109 1.0
+1091 839 1.0
+1091 269 1.0
+1091 581 1.0
+1091 392 1.0
+1091 529 1.0
+1091 550 1.0
+1091 558 2.0
+1091 5 2.0
+1091 23 2.0
+1091 145 1.0
+1091 229 1.0
+1091 1110 1.0
+1091 271 1.0
+1091 1111 1.0
+1091 1112 1.0
+1091 2 4.0
+1091 299 1.0
+1091 579 2.0
+1091 967 1.0
+1091 317 1.0
+1091 577 1.0
+1091 1113 1.0
+1091 1114 1.0
+1091 1115 1.0
+1091 1116 1.0
+1091 1117 1.0
+1091 834 2.0
+1091 1118 1.0
+1091 107 2.0
+1091 156 1.0
+1091 1119 1.0
+1091 418 1.0
+1091 514 1.0
+1091 28 2.0
+1091 681 1.0
+1091 1120 1.0
+1091 1121 1.0
+1091 36 1.0
+1091 164 1.0
+1091 357 1.0
+1091 645 1.0
+1091 51 1.0
+1091 1122 1.0
+1091 209 1.0
+1091 81 3.0
+1091 319 1.0
+1091 52 3.0
+1091 1123 1.0
+1091 75 1.0
+1091 255 2.0
+1091 1124 1.0
+1091 364 1.0
+1091 25 1.0
+1091 490 1.0
+1091 262 1.0
+1091 139 1.0
+1091 188 1.0
+1091 70 1.0
+1091 305 1.0
+1091 373 1.0
+1091 761 1.0
+1091 38 1.0
+1091 419 1.0
+1091 241 1.0
+1091 1125 1.0
+1091 1126 1.0
+1091 165 2.0
+1091 261 2.0
+1091 253 1.0
+1091 1127 1.0
+1091 793 1.0
+1091 527 1.0
+1091 82 1.0
+1091 511 1.0
+1091 1128 1.0
+1091 410 1.0
+1091 1129 1.0
+1091 1130 1.0
+1091 114 1.0
+1091 1131 1.0
+1091 151 1.0
+1091 1132 1.0
+1091 866 1.0
+1091 153 1.0
+1091 155 1.0
+1091 864 1.0
+1091 192 1.0
+1091 1133 1.0
+1091 1134 1.0
+1091 228 1.0
+1091 1135 1.0
+1136 11 22.0
+1136 19 2.0
+1136 349 2.0
+1136 666 2.0
+1136 410 1.0
+1136 202 2.0
+1136 362 2.0
+1136 1137 4.0
+1136 524 2.0
+1136 1006 2.0
+1136 314 2.0
+1136 1138 1.0
+1136 422 2.0
+1136 8 4.0
+1136 174 1.0
+1136 690 1.0
+1136 1139 1.0
+1136 56 7.0
+1136 1140 1.0
+1136 189 1.0
+1136 390 13.0
+1136 1141 2.0
+1136 427 2.0
+1136 1142 1.0
+1136 981 1.0
+1136 1143 1.0
+1136 510 1.0
+1136 12 1.0
+1136 992 1.0
+1136 368 5.0
+1136 371 2.0
+1136 65 5.0
+1136 370 2.0
+1136 418 1.0
+1136 614 3.0
+1136 2 3.0
+1136 711 3.0
+1136 58 5.0
+1136 413 2.0
+1136 91 4.0
+1136 172 3.0
+1136 1144 1.0
+1136 339 7.0
+1136 81 3.0
+1136 1145 1.0
+1136 967 1.0
+1136 574 1.0
+1136 1146 1.0
+1136 695 2.0
+1136 38 6.0
+1136 1147 1.0
+1136 74 5.0
+1136 1148 1.0
+1136 1149 2.0
+1136 1150 1.0
+1136 1151 1.0
+1136 299 1.0
+1136 342 2.0
+1136 83 3.0
+1136 224 2.0
+1136 1152 1.0
+1136 1153 3.0
+1136 1154 1.0
+1136 903 1.0
+1136 633 1.0
+1136 1155 1.0
+1136 383 2.0
+1136 14 4.0
+1136 1156 3.0
+1136 1157 1.0
+1136 1158 2.0
+1136 365 3.0
+1136 255 2.0
+1136 428 1.0
+1136 28 4.0
+1136 248 2.0
+1136 311 3.0
+1136 209 1.0
+1136 718 4.0
+1136 680 1.0
+1136 329 1.0
+1136 714 2.0
+1136 180 1.0
+1136 10 6.0
+1136 113 1.0
+1136 579 1.0
+1136 208 2.0
+1136 426 1.0
+1136 345 4.0
+1136 156 1.0
+1136 1159 2.0
+1136 5 1.0
+1136 369 1.0
+1136 1160 1.0
+1136 118 1.0
+1136 378 1.0
+1136 728 2.0
+1136 1161 1.0
+1136 200 1.0
+1136 1162 1.0
+1136 932 1.0
+1136 415 1.0
+1136 105 1.0
+1136 894 2.0
+1136 1163 1.0
+1136 86 1.0
+1136 304 1.0
+1136 1164 1.0
+1136 812 1.0
+1136 71 3.0
+1136 3 2.0
+1136 671 1.0
+1136 54 4.0
+1136 289 1.0
+1136 393 1.0
+1136 1165 1.0
+1136 403 1.0
+1136 1166 1.0
+1136 1167 1.0
+1136 1168 1.0
+1136 165 1.0
+1136 392 2.0
+1136 1169 1.0
+1136 258 1.0
+1136 1170 1.0
+1136 1171 1.0
+1136 449 2.0
+1136 1172 1.0
+1136 21 1.0
+1136 1173 1.0
+1136 1174 1.0
+1136 106 1.0
+1136 872 1.0
+1136 44 1.0
+1136 30 1.0
+1136 284 2.0
+1136 430 1.0
+1136 287 1.0
+1136 344 2.0
+1136 78 1.0
+1136 366 2.0
+1136 99 1.0
+1136 637 1.0
+1136 697 1.0
+1136 1175 1.0
+1136 357 1.0
+1136 111 1.0
+1136 663 1.0
+1136 583 1.0
+1136 67 1.0
+1136 234 1.0
+1136 1176 1.0
+1136 32 1.0
+1136 1177 1.0
