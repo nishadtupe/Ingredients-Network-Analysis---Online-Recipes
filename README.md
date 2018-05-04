@@ -5,8 +5,8 @@ This repository contains Python Code Files , Datasets , Gephi Images.
 
 ## Bin description :
 
-### Final_project_code.ipypnb - Accepts train and test .json datasets and apply machine learning for cuisine analysis. 
-### Food_network_project.iypnb - Takes all_data.net and small_data.net graphs and performs basic Network Analysis.
+#### Final_project_code.ipypnb - Accepts train and test .json datasets and apply machine learning for cuisine analysis. 
+#### Food_network_project.iypnb - Takes all_data.net and small_data.net graphs and performs basic Network Analysis.
 ### Top_5_Cuisine_Nutrient_Analysis.ipynb – Loads the Top_5.xlsx and performs statistical analysis and matplotlib plots.  
 ### Cuisine_Hypothesis.ipynb - The file takes all_data.net as input and plots the distributions for degree assortativity coefficient.
 ### Project_code - Same file final_project_code used as backup code. 
