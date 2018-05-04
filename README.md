@@ -1,6 +1,6 @@
 ## NWSC-Project-SPR-2018 - "Analyzing the similarities of World Food by Using Online Recipes"
 ### Prajakta Patil , Nishad Tupe , Sahithya Sridhar - University of Indiana , Bloomington 
-### This repository contains Python Code Files , Datasets , Gephi Images. 
+##### This repository contains Python Code Files , Datasets , Gephi Images. 
 
 #### Bin description :
 
